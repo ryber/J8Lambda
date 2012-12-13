@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings
+target/
+bin/
+*.iml
+*.ipr
+*.iws
+*.ids
+*.idea
+MANIFEST.MF
+.DS_Store
+derby.log
+/fixy-jpa/petstore/
+build/
+.gradle
