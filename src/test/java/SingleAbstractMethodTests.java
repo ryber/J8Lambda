@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;
 
-public class InnerInterfaces {
+public class SingleAbstractMethodTests {
     interface Squarer<X, Y> {
         Y square(X x);
     }
