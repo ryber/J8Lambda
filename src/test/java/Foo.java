@@ -4,4 +4,6 @@ public class Foo {
         value = v;
     }
     public String value;
+
+    public String getValue(){ return value; }
 }
