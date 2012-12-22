@@ -29,8 +29,21 @@ public class MapReduceTests {
         //Why do I have to cast the function but not the binary operator?
         String result = foos.stream()
                 .map((Function<Foo, String>) (x) -> x.value)
-                .reduce("", (left, right) -> left + right);
+                .reduce("Nutz", (left, right) -> left + right);
 
-        assertEquals("FooBarBaz", result);
+        assertEquals("NutzFooBarBaz", result);
+    }
+
+    @Test
+    public void withoutABaseYouGetAnOptional() {
+        List<Foo> foos = Arrays.asList(new Foo("Foo"),
+                new Foo("Bar"),
+                new Foo("Baz"));
+
+        Optional<String> result = foos.stream()
+                .map((Function<Foo, String>) (x) -> x.value)
+                .reduce((left, right) -> left + right);
+
+        assertEquals("FooBarBaz", result.get());
     }
 }

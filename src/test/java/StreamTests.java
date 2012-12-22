@@ -1,6 +1,10 @@
 import org.junit.Test;
 
 import java.util.*;
+import java.util.function.DoubleFunction;
+import java.util.function.Function;
+import java.util.function.IntFunction;
+import java.util.function.LongFunction;
 
 import static junit.framework.Assert.*;
 
@@ -149,6 +153,20 @@ public class StreamTests {
         assertEquals((Integer)6, merged.get(2));
     }
 
+    @Test
+    public void canGetMax(){
+        List<Integer> foos = Arrays.asList(1,2,3);
 
+        Optional<Integer> max = foos.stream().max((left, right) -> left - right);
+        assertEquals((Integer)3, max.get());
+    }
+
+    @Test
+    public void canGetMin(){
+        List<Integer> foos = Arrays.asList(1,2,3);
+
+        Optional<Integer> max = foos.stream().min((left, right) -> left - right);
+        assertEquals((Integer)1, max.get());
+    }
 
 }
