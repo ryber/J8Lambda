@@ -3,8 +3,7 @@ import org.junit.Test;
 import static junit.framework.Assert.assertFalse;
 import static junit.framework.Assert.assertTrue;
 
-public class SimpleRunnables {
-
+public class StaticMethodRefs {
 
     @Test
     public void canRefByMethod(){
