@@ -7,7 +7,7 @@ public class MultipleInheritance {
     interface B extends A { default int foo() {return 2;}}
     interface C extends A { default int foo() {return 3;}}
 
-    // D and E will not compile because its impl of foo is ambiguious
+    // D and E will not compile because its impl of foo is ambiguous
     // interface D extends B,C { }
     // class E implements B,C {}
 
