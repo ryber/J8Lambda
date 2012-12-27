@@ -6,4 +6,6 @@ public class Foo {
     public String value;
 
     public String getValue(){ return value; }
+
+
 }

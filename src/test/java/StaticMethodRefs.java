@@ -1,7 +1,12 @@
+import org.junit.Ignore;
 import org.junit.Test;
 
-import static junit.framework.Assert.assertFalse;
-import static junit.framework.Assert.assertTrue;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.primitive.IntStream;
+
+import static junit.framework.Assert.*;
 
 public class StaticMethodRefs {
 
@@ -49,10 +54,27 @@ public class StaticMethodRefs {
         assertTrue(MyExecute.isOn);
     }
 
+    @Test
+    @Ignore("Not working yet")
+    public void canContsructWithMethodReference(){
+        // MyExecute e = MyExecute::new;
+
+        // assertNotNull(e);
+    }
+
+    @Test
+    @Ignore("Not working yet")
+    public void canUserConstructorRefsForStuff(){
+      //  List<String> strList = Arrays.asList("1", "2", "3");
+      //  int[] intList = strList.stream().map(Integer::new).toArray();
+      //  assertEquals(3, intList.length);
+    }
+
 
 
 
     public static class MyExecute {
+
         private static boolean isOn;
 
         public static void go(){
