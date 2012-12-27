@@ -1,7 +1,11 @@
 import org.junit.Test;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Objects;
 import java.util.function.Function;
 import java.util.function.Functions;
+import java.util.function.Predicate;
 
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.format;
@@ -71,5 +75,50 @@ public class FunctionsTests {
     public void constructorFunction(){
         Function<String, Integer> f = Functions.instantiate(String.class, Integer.class);
         assertEquals((Integer)1, f.apply("1"));
+    }
+
+    @Test
+    public void functionsForMaps(){
+        Map<String,String> m = new HashMap<>();
+        m.put("foo","bar");
+        m.put("baz","hobbit");
+
+        Function<String, String> f = Functions.forMap(m);
+
+        assertEquals("bar", f.apply("foo"));
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void functionsForMapsAnnoyinglyThrowsExceptions(){
+        Map<String,String> m = new HashMap<>();
+        m.put("foo","bar");
+        m.put("baz","hobbit");
+
+        Function<String, String> f = Functions.forMap(m);
+
+        f.apply("smurf");
+    }
+
+    @Test
+    public void functionsForMapsAreNicerWithDefaults(){
+        Map<String,String> m = new HashMap<>();
+        m.put("foo","bar");
+        m.put("baz","hobbit");
+
+        Function<String, String> f = Functions.forMap(m, "gandalf");
+
+        assertEquals("gandalf", f.apply("smurf"));
+    }
+
+    @Test
+    public void functionBasedOnPredicate(){
+
+        Function<String,String> barOrBaz = Functions.forPredicate(
+                (Predicate<String>) (x)-> Objects.equals(x, "foo"),
+                "bar",
+                "baz");
+
+        assertEquals("bar", barOrBaz.apply("foo"));
+        assertEquals("baz", barOrBaz.apply("smurf"));
     }
 }
