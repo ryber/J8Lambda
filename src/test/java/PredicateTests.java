@@ -50,16 +50,15 @@ public class PredicateTests {
 
     @Test
     public void canDoAXOr(){
-        Predicate<Integer> gt6 = (x) -> x > 6;
-        Predicate<Integer> lt9 = (x) -> x < 9;
-        Predicate<Integer> even = (x) -> x % 2 == 0;
+        Predicate<String> containsF = (x) -> x.contains("F");
+        Predicate<String> startsWithp = (x) -> x.startsWith("p");
 
-        Predicate<Integer> all = gt6.xor(lt9).xor(even);
+        Predicate<String> xor = containsF.xor(startsWithp);
 
-        assertTrue(all.test(8));
-        assertFalse(all.test(7));
-        assertFalse(all.test(10));
-        assertFalse(all.test(6));
+        assertFalse(xor.test("pAndFoo"));
+        assertTrue(xor.test("patty"));
+        assertTrue(xor.test("Barney Fife"));
+        assertFalse(xor.test("Neither is true here"));
     }
 
     @Test
