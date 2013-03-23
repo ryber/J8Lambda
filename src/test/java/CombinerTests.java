@@ -28,7 +28,7 @@ public class CombinerTests {
         double a = 1.1;
         double b = 2.2;
 
-        assertEquals(3.3, bi.operateAsDouble(a,b), 1);
-        assertEquals(new Double(3.3), bi.operate(a,b), 1);
+        assertEquals(3.3, bi.applyAsDouble(a,b), 1);
+        assertEquals(new Double(3.3), bi.applyAsDouble(a,b), 1);
     }
 }

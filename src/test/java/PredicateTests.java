@@ -63,45 +63,11 @@ public class PredicateTests {
 
     @Test
     public void findNulls(){
-        Predicate<String> p = Predicates.isNull();
+        Predicate<String> p = Predicates.isEqual(null);
 
         assertFalse(p.test("foo"));
         assertTrue(p.test(null));
     }
-
-    @Test
-    public void findNotNulls(){
-        Predicate<String> p = Predicates.nonNull();
-
-        assertFalse(p.test(null));
-        assertTrue(p.test("foo"));
-    }
-
-    @Test
-    public void alwaysFalseIsAlwaysFalse(){
-        Predicate<String> p = Predicates.alwaysFalse();
-
-        assertFalse(p.test(null));
-        assertFalse(p.test("foo"));
-    }
-
-    @Test
-    public void alwaysTrueIsAlwaysTrue(){
-        Predicate<String> p = Predicates.alwaysTrue();
-
-        assertTrue(p.test(null));
-        assertTrue(p.test("foo"));
-    }
-
-    @Test
-    public void canTellIfItsAnInstanceOf(){
-        Predicate<Foo> p = Predicates.instanceOf(FooBar.class);
-
-        assertFalse(p.test(new Foo()));
-        assertTrue(p.test(new FooBar()));
-    }
-
-    static class FooBar extends Foo {}
 
     @Test
     public void cantellIfSame(){

@@ -3,7 +3,10 @@ import org.junit.Test;
 import java.util.*;
 import java.util.function.BinaryOperator;
 import java.util.function.Function;
+import java.util.function.Supplier;
+import java.util.stream.Collectors;
 
+import static java.util.stream.Collectors.toList;
 import static junit.framework.Assert.assertEquals;
 
 public class MapReduceTests {
@@ -11,10 +14,9 @@ public class MapReduceTests {
     public void mapAResult() {
         List<Foo> foos = Arrays.asList(new Foo("foo"), new Foo("Bar"));
 
-        ///Aaaarg! Java, why you no infer function type?!
         List<String> result = foos.stream()
-                .map((Function<Foo, String>) (x) -> x.value)
-                .into(new ArrayList<String>());
+                .map((x) -> x.value)
+                .collect(toList());
 
         assertEquals("foo", result.get(0));
         assertEquals("Bar", result.get(1));
@@ -26,9 +28,9 @@ public class MapReduceTests {
                 new Foo("Bar"),
                 new Foo("Baz"));
 
-        //Why do I have to cast the function but not the binary operator?
+
         String result = foos.stream()
-                .map((Function<Foo, String>) (x) -> x.value)
+                .map((x) -> x.value)
                 .reduce("Nutz", (left, right) -> left + right);
 
         assertEquals("NutzFooBarBaz", result);

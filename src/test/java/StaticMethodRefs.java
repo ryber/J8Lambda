@@ -4,7 +4,7 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.primitive.IntStream;
+
 
 import static junit.framework.Assert.*;
 
@@ -57,18 +57,12 @@ public class StaticMethodRefs {
     @Test
     @Ignore("Not working yet")
     public void canContsructWithMethodReference(){
-        // MyExecute e = MyExecute::new;
+       // MyExecute e = MyExecute::new;
 
         // assertNotNull(e);
     }
 
-    @Test
-    @Ignore("Not working yet")
-    public void canUserConstructorRefsForStuff(){
-      //  List<String> strList = Arrays.asList("1", "2", "3");
-      //  int[] intList = strList.stream().map(Integer::new).toArray();
-      //  assertEquals(3, intList.length);
-    }
+
 
 
 

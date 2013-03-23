@@ -36,22 +36,8 @@ public class FunctionsTests {
         assertEquals(foo, f.apply(foo));
     }
 
-    @Test
-    public void toStringFunction(){
-        Function<Integer, String> f = Functions.string();
-        assertEquals("1", f.apply(1));
-        assertEquals("null", f.apply(null));
-    }
 
-    @Test
-    public void produceAChainOfFunctions(){
-        Function<Integer, String> f = Functions.chain(
-                (Function<Integer, Integer>) (x)->x*x,
-                Functions.<Integer>string()
-        );
 
-        assertEquals("25", f.apply(5));
-    }
 
     @Test
     public void providesAConstantForResult(){

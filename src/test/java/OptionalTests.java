@@ -1,7 +1,9 @@
 import org.junit.Test;
 
 import java.util.Optional;
-import java.util.function.Block;
+import java.util.function.Consumer;
+import java.util.function.Supplier;
+
 
 import static junit.framework.Assert.*;
 
@@ -27,7 +29,7 @@ public class OptionalTests {
         Optional<Foo> aFoo = Optional.of(new Foo("foo"));
         Optional<Foo> notAFoo = Optional.empty();
 
-        Block<Foo> doThis = (x)->{x.value = "bar";};
+        Consumer<Foo> doThis = (x)->{x.value = "bar";};
 
         aFoo.ifPresent(doThis);
         notAFoo.ifPresent(doThis);
@@ -45,15 +47,16 @@ public class OptionalTests {
     }
 
     @Test(expected = YesThisShouldBeThrown.class)
-    public void orElseThrow(){
+    public void orElseThrow() throws Throwable {
         Optional<Foo> aFoo = Optional.of(new Foo("foo"));
         Optional<Foo> notAFoo = Optional.empty();
 
-        aFoo.orElseThrow(ShouldNotSeeThisException.class);
-        notAFoo.orElseThrow(YesThisShouldBeThrown.class);
+        aFoo.orElseThrow(() -> {throw new ShouldNotSeeThisException(); });
+        notAFoo.orElseThrow(() -> {throw new YesThisShouldBeThrown();});
+
     }
 
-    public static class ShouldNotSeeThisException extends RuntimeException {}
+    public static class ShouldNotSeeThisException extends RuntimeException{}
     public static class YesThisShouldBeThrown extends RuntimeException {}
 
 }
