@@ -50,23 +50,21 @@ public class StaticMethodRefs {
 
     @Test
     public void canContsructWithMethodReference(){
-        Runnable e = MyExecute::new;
+        Runnable e = MyRunnable::new;
 
         assertNotNull(e);
     }
 
-    private static class MyExecute implements Runnable {
+    private static class MyExecute  {
         private static boolean isOn;
-        @Override
-        public void run() {
-
-        }
-
         public static void go() {
             isOn = true;
         }
     }
 
-
-
+    private static class MyRunnable implements Runnable {
+        @Override
+        public void run() {
+        }
+    }
 }
