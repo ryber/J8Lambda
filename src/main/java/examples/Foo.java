@@ -1,3 +1,5 @@
+package examples;
+
 public class Foo {
     public Foo(){}
     public Foo(String v){
@@ -6,6 +8,4 @@ public class Foo {
     public String value;
 
     public String getValue(){ return value; }
-
-
 }

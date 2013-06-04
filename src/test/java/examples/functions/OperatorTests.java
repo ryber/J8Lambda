@@ -1,4 +1,4 @@
-package functions;
+package examples.functions;
 
 import org.junit.Test;
 
@@ -14,13 +14,13 @@ public class OperatorTests {
     public void binaryOperatorsCombineTheSameType(){
         BinaryOperator<String> bi = (s1,s2) -> s1 + s2;
 
-        assertEquals("FooBar", bi.apply("Foo", "Bar"));
+        assertEquals("FooBar", bi.apply("examples.Foo", "Bar"));
     }
 
     @Test
     public void unaryOperatorsModifyAndReturnTheSameType() throws Exception {
         UnaryOperator<String> u = s -> s.substring(0,1);
-        assertEquals("F", u.apply("Foo"));
+        assertEquals("F", u.apply("examples.Foo"));
     }
 
     @Test

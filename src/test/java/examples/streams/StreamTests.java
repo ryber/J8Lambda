@@ -1,10 +1,9 @@
+package examples.streams;
+
+import examples.Foo;
 import org.junit.Test;
 
 import java.util.*;
-import java.util.function.DoubleFunction;
-import java.util.function.Function;
-import java.util.function.IntFunction;
-import java.util.function.LongFunction;
 import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.toList;

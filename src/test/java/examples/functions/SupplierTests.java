@@ -1,13 +1,12 @@
-package functions;
+package examples.functions;
 
+import examples.Foo;
 import org.junit.Test;
 
 import java.util.function.IntSupplier;
 import java.util.function.Supplier;
 
-import static junit.framework.Assert.assertEquals;
-import static junit.framework.Assert.assertNotNull;
-import static junit.framework.Assert.assertTrue;
+import static junit.framework.Assert.*;
 
 public class SupplierTests {
 
@@ -23,8 +22,5 @@ public class SupplierTests {
     public void specialtySuppliersForPrims() throws Exception {
         IntSupplier i = () -> 42;
         assertEquals(42, i.getAsInt());
-    }
-
-    private class Foo {
     }
 }

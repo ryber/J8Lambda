@@ -1,10 +1,10 @@
+package examples;
+
+import examples.Foo;
 import org.junit.Test;
 
 import java.util.*;
-import java.util.function.BinaryOperator;
 import java.util.function.Function;
-import java.util.function.Supplier;
-import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.toList;
 import static junit.framework.Assert.assertEquals;
@@ -24,7 +24,7 @@ public class MapReduceTests {
 
     @Test
     public void reduceToSingleResult() {
-        List<Foo> foos = Arrays.asList(new Foo("Foo"),
+        List<Foo> foos = Arrays.asList(new Foo("examples.Foo"),
                 new Foo("Bar"),
                 new Foo("Baz"));
 
@@ -38,7 +38,7 @@ public class MapReduceTests {
 
     @Test
     public void withoutABaseYouGetAnOptional() {
-        List<Foo> foos = Arrays.asList(new Foo("Foo"),
+        List<Foo> foos = Arrays.asList(new Foo("examples.Foo"),
                 new Foo("Bar"),
                 new Foo("Baz"));
 

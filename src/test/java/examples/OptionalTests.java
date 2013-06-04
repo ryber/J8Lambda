@@ -1,9 +1,10 @@
+package examples;
+
+import examples.Foo;
 import org.junit.Test;
 
 import java.util.Optional;
 import java.util.function.Consumer;
-import java.util.function.Supplier;
-
 
 import static junit.framework.Assert.*;
 
@@ -51,8 +52,8 @@ public class OptionalTests {
         Optional<Foo> aFoo = Optional.of(new Foo("foo"));
         Optional<Foo> notAFoo = Optional.empty();
 
-        aFoo.orElseThrow(() -> {throw new ShouldNotSeeThisException(); });
-        notAFoo.orElseThrow(() -> {throw new YesThisShouldBeThrown();});
+        aFoo.orElseThrow(() -> { throw new ShouldNotSeeThisException(); });
+        notAFoo.orElseThrow(() -> { throw new YesThisShouldBeThrown(); });
 
     }
 
