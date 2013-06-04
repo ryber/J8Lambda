@@ -1,25 +1,24 @@
 package functions;
 
-import org.junit.Before;
 import org.junit.Test;
 
+import java.util.function.BiConsumer;
 import java.util.function.Consumer;
 
 import static junit.framework.Assert.assertEquals;
 
 public class ConsumerTests {
-    String passed;
 
-    @Before
-    public void setUp() throws Exception {
-        passed = null;
-    }
+    // Consumers are expected to produce side effects!
 
     @Test
     public void aConsumerTakesSomethingAndReturnsVoid() throws Exception {
-        Consumer<String> c = s -> passed = s;
-        c.accept("foo");
-        assertEquals("foo", passed);
+        PennyTray pt = new PennyTray(1);
+
+        Consumer<PennyTray> c = s -> s.amount++;
+        c.accept(pt);
+
+        assertEquals(2, pt.amount);
     }
 
     @Test
@@ -34,6 +33,15 @@ public class ConsumerTests {
         assertEquals(38, pt.amount);
     }
 
+    @Test
+    public void aBiConsumerTakesTwoThings() throws Exception {
+        PennyTray pt = new PennyTray(1);
+        BiConsumer<PennyTray, Integer> addEm = (p,i) -> p.amount = p.amount + i;
+
+        addEm.accept(pt, 41);
+
+        assertEquals(42, pt.amount);
+    }
 
     private static class PennyTray {
         public int amount;
