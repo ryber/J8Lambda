@@ -1,10 +1,4 @@
-import org.junit.Ignore;
 import org.junit.Test;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 
 import static junit.framework.Assert.*;
 
@@ -65,6 +59,10 @@ public class StaticMethodRefs {
         private static boolean isOn;
         @Override
         public void run() {
+
+        }
+
+        public static void go() {
             isOn = true;
         }
     }
