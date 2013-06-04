@@ -2,9 +2,7 @@ import org.junit.Test;
 
 import java.util.Objects;
 import java.util.function.Predicate;
-import java.util.function.Predicates;
 
-import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.assertFalse;
 import static junit.framework.Assert.assertTrue;
 
@@ -49,40 +47,16 @@ public class PredicateTests {
     }
 
     @Test
-    public void canDoAXOr(){
+    public void canDoAOr(){
         Predicate<String> containsF = (x) -> x.contains("F");
         Predicate<String> startsWithp = (x) -> x.startsWith("p");
 
-        Predicate<String> xor = containsF.xor(startsWithp);
+        Predicate<String> or = containsF.or(startsWithp);
 
-        assertFalse(xor.test("pAndFoo"));
-        assertTrue(xor.test("patty"));
-        assertTrue(xor.test("Barney Fife"));
-        assertFalse(xor.test("Neither is true here"));
+        assertTrue(or.test("patty"));
+        assertTrue(or.test("Barney Fife"));
+        assertFalse(or.test("Neither is true here"));
     }
 
-    @Test
-    public void findNulls(){
-        Predicate<String> p = Predicates.isEqual(null);
 
-        assertFalse(p.test("foo"));
-        assertTrue(p.test(null));
-    }
-
-    @Test
-    public void cantellIfSame(){
-        Foo foo = new Foo();
-        Predicate<Foo> p = Predicates.isSame(foo);
-
-        assertTrue(p.test(foo));
-        assertFalse(p.test(new Foo()));
-    }
-
-    @Test
-    public void canTellIfEquals(){
-        Predicate<String> p = Predicates.isEqual("foo");
-
-        assertTrue(p.test("foo"));
-        assertFalse(p.test("bar"));
-    }
 }

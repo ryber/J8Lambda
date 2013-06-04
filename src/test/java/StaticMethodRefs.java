@@ -1,12 +1,7 @@
-import org.junit.Ignore;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-
-import static junit.framework.Assert.*;
+import static junit.framework.Assert.assertFalse;
+import static junit.framework.Assert.assertTrue;
 
 public class StaticMethodRefs {
 
@@ -54,19 +49,6 @@ public class StaticMethodRefs {
         assertTrue(MyExecute.isOn);
     }
 
-    @Test
-    @Ignore("Not working yet")
-    public void canContsructWithMethodReference(){
-       // MyExecute e = MyExecute::new;
-
-        // assertNotNull(e);
-    }
-
-
-
-
-
-
     public static class MyExecute {
 
         private static boolean isOn;
@@ -75,7 +57,4 @@ public class StaticMethodRefs {
             isOn = true;
         }
     }
-
-
-
 }
