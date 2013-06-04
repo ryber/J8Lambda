@@ -1,24 +1,26 @@
+package functions;
+
 import org.junit.Test;
 
-import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;
 import java.util.function.DoubleBinaryOperator;
+import java.util.function.UnaryOperator;
 
 import static junit.framework.Assert.assertEquals;
 
-public class CombinerTests {
-    @Test
-    public void combinersMerge2Things(){
-        BiFunction<Integer, Boolean, String> c = (i,b) -> i.toString() + b.toString();
-
-        assertEquals("42false", c.apply(42,false));
-    }
+public class OperatorTests {
 
     @Test
     public void binaryOperatorsCombineTheSameType(){
         BinaryOperator<String> bi = (s1,s2) -> s1 + s2;
 
         assertEquals("FooBar", bi.apply("Foo", "Bar"));
+    }
+
+    @Test
+    public void unaryOperatorsModifyAndReturnTheSameType() throws Exception {
+        UnaryOperator<String> u = s -> s.substring(0,1);
+        assertEquals("F", u.apply("Foo"));
     }
 
     @Test
@@ -31,4 +33,7 @@ public class CombinerTests {
         assertEquals(3.3, bi.applyAsDouble(a,b), 1);
         assertEquals(new Double(3.3), bi.applyAsDouble(a,b), 1);
     }
+
+
+
 }

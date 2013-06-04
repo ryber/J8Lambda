@@ -1,14 +1,14 @@
-
 import org.junit.Before;
 import org.junit.Test;
 
+import java.io.FileFilter;
 import java.util.HashMap;
 import java.util.Map;
 
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.assertTrue;
 
-public class Methods {
+public class BasicLambdaSyntax {
     int fooCalled = 0;
     int barCalled = 0;
 
@@ -70,4 +70,9 @@ public class Methods {
         assertEquals(1, barCalled);
     }
 
+    @Test
+    public void singleParamMethodsDontNeedParams() throws Exception {
+        FileFilter java = f -> f.getName().endsWith(".java");
+        assertTrue(java instanceof FileFilter);
+    }
 }
