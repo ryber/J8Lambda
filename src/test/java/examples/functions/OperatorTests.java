@@ -33,7 +33,4 @@ public class OperatorTests {
         assertEquals(3.3, bi.applyAsDouble(a,b), 1);
         assertEquals(new Double(3.3), bi.applyAsDouble(a,b), 1);
     }
-
-
-
 }
