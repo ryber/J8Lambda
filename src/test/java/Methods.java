@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import static junit.framework.Assert.assertEquals;
+import static junit.framework.Assert.assertTrue;
 
 public class Methods {
     int fooCalled = 0;
@@ -31,6 +32,20 @@ public class Methods {
     public void setUp(){
         fooCalled = 0;
         barCalled = 0;
+    }
+
+    @Test
+    public void multiLineLambdas(){
+        assertTrue(Boolean.TRUE);
+
+        Runnable run = () -> {
+            for(int x = 0; x < 10; x++)
+                fooCalled++;
+        };
+
+        run.run();
+
+        assertEquals(10, fooCalled);
     }
 
     @Test
