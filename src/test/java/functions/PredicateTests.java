@@ -3,6 +3,7 @@ package functions;
 import org.junit.Test;
 
 import java.util.Objects;
+import java.util.function.IntPredicate;
 import java.util.function.Predicate;
 
 import static junit.framework.Assert.assertFalse;
@@ -13,7 +14,7 @@ public class PredicateTests {
 
     @Test
     public void youCanMakeYourOwnPredicates(){
-        Predicate<String> isFoo = (x)-> Objects.equals(x,"foo");
+        Predicate<String> isFoo = x -> Objects.equals(x,"foo");
 
         assertTrue(isFoo.test("foo"));
         assertFalse(isFoo.test("bar"));
@@ -21,8 +22,8 @@ public class PredicateTests {
 
     @Test
     public void canChainPredicates(){
-        Predicate<Integer> gt6 = (x)-> x > 6;
-        Predicate<Integer> lt9 = (x)-> x < 9;
+        Predicate<Integer> gt6 = x-> x > 6;
+        Predicate<Integer> lt9 = x-> x < 9;
 
         assertTrue(gt6.and(lt9).test(7));
         assertFalse(gt6.and(lt9).test(5));
@@ -31,7 +32,7 @@ public class PredicateTests {
 
     @Test
     public void canProduceANegatingPredicate(){
-        Predicate<String> isFoo = (x)-> Objects.equals(x,"foo");
+        Predicate<String> isFoo = x -> Objects.equals(x,"foo");
 
         assertFalse(isFoo.negate().test("foo"));
         assertTrue(isFoo.negate().test("bar"));
@@ -39,8 +40,8 @@ public class PredicateTests {
 
     @Test
     public void canProduceOrPredicates(){
-        Predicate<Integer> is6 = (x)->x.equals(6);
-        Predicate<Integer> is9 = (x)->x.equals(9);
+        Predicate<Integer> is6 = x -> x.equals(6);
+        Predicate<Integer> is9 = x -> x.equals(9);
 
 
         assertTrue(is6.or(is9).test(6));
@@ -50,8 +51,8 @@ public class PredicateTests {
 
     @Test
     public void canDoAOr(){
-        Predicate<String> containsF = (x) -> x.contains("F");
-        Predicate<String> startsWithp = (x) -> x.startsWith("p");
+        Predicate<String> containsF = x -> x.contains("F");
+        Predicate<String> startsWithp = x -> x.startsWith("p");
 
         Predicate<String> or = containsF.or(startsWithp);
 
@@ -60,5 +61,10 @@ public class PredicateTests {
         assertFalse(or.test("Neither is true here"));
     }
 
-
+    @Test
+    public void specialtyPredicatesForPrims() throws Exception {
+        IntPredicate lessThan7 = i -> i < 7;
+        assertTrue(lessThan7.test(6));
+        assertFalse(lessThan7.test(8));
+    }
 }
