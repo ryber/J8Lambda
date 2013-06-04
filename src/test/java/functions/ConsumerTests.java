@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;
+import java.util.function.IntConsumer;
 
 import static junit.framework.Assert.assertEquals;
 
@@ -41,6 +42,17 @@ public class ConsumerTests {
         addEm.accept(pt, 41);
 
         assertEquals(42, pt.amount);
+    }
+
+    int consumed = 0;
+
+    @Test
+    public void thereAreSpecialtyConsumersForPrimatives() throws Exception {
+        consumed = 0;
+        IntConsumer c = i -> consumed = i;
+        c.accept(42);
+
+        assertEquals(42, consumed);
     }
 
     private static class PennyTray {

@@ -1,3 +1,5 @@
+package functions;
+
 import org.junit.Test;
 
 import java.util.Objects;
