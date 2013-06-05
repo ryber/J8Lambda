@@ -4,21 +4,23 @@ import examples.Foo;
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import static java.util.Arrays.asList;
 import static java.util.stream.Collectors.toList;
+import static java.util.stream.Stream.empty;
+import static java.util.stream.Stream.of;
 import static junit.framework.Assert.*;
 
 public class StreamTests {
     @Test
     public void canFilterCollectionToAnother(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
+        Stream<Integer> foos = of(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
-        List<Integer> lessThan5 = foos.stream().filter(x -> x < 5).collect(Collectors.<Integer>toList());
+        List<Integer> lessThan5 = foos.filter(x -> x < 5).collect(Collectors.<Integer>toList());
 
         assertTrue(lessThan5.contains(4));
         assertFalse(lessThan5.contains(5));
@@ -27,7 +29,7 @@ public class StreamTests {
 
     @Test
     public void canCheckThatAllItemsMatch(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
+        List<Integer> foos = asList(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
         assertFalse(foos.stream().allMatch(x -> x < 5));
         assertTrue(foos.stream().allMatch(x -> x < 10));
@@ -35,7 +37,7 @@ public class StreamTests {
 
     @Test
     public void canCheckThatAnyMatch(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
+        List<Integer> foos = asList(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
         assertFalse(foos.stream().anyMatch(x -> x > 25));
         assertTrue(foos.stream().anyMatch(x -> x < 5));
@@ -43,7 +45,7 @@ public class StreamTests {
 
     @Test
     public void canCheckThatNoneMatch(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
+        List<Integer> foos = asList(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
         assertFalse(foos.stream().noneMatch(x -> x < 25));
         assertTrue(foos.stream().noneMatch(x -> x > 25));
@@ -51,9 +53,9 @@ public class StreamTests {
 
     @Test
     public void canTakeASlice(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
+        Stream<Integer> foos = of(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
-        List<Integer> aSlice = foos.stream().substream(3, 7).collect(toList());
+        List<Integer> aSlice = foos.substream(3, 7).collect(toList());
 
         assertEquals((Integer)4, aSlice.get(0));
         assertEquals((Integer)7, aSlice.get(3));
@@ -62,9 +64,9 @@ public class StreamTests {
 
     @Test
     public void canLimitStream(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
+        Stream<Integer> foos = of(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
-        List<Integer> aSlice = foos.stream().limit(3).collect(toList());
+        List<Integer> aSlice = foos.limit(3).collect(toList());
 
         assertEquals((Integer)1, aSlice.get(0));
         assertEquals((Integer)3, aSlice.get(2));
@@ -73,9 +75,9 @@ public class StreamTests {
 
     @Test
     public void canSkipElements(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
+        Stream<Integer> foos = of(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
-        List<Integer> aSlice = foos.stream().substream(3).collect(toList());
+        List<Integer> aSlice = foos.substream(3).collect(toList());
 
         assertEquals((Integer)4, aSlice.get(0));
         assertEquals((Integer)9, aSlice.get(5));
@@ -84,11 +86,11 @@ public class StreamTests {
 
     @Test
     public void canGetTheFirstElement(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
-        List<Integer> noFoos = new ArrayList<>();
+        Stream<Integer> foos = of(1, 2, 3, 4, 5, 6, 7, 8, 9);
+        Stream<Integer> noFoos = empty();
 
-        Optional<Integer> first = foos.stream().findFirst();
-        Optional<Integer> empty = noFoos.stream().findFirst();
+        Optional<Integer> first = foos.findFirst();
+        Optional<Integer> empty = noFoos.findFirst();
 
         assertEquals((Integer)1, first.get());
         assertFalse(empty.isPresent());
@@ -96,11 +98,11 @@ public class StreamTests {
 
     @Test
     public void canGetAnyItem(){
-        List<Integer> foos = Arrays.asList(1,2,3,4,5,6,7,8,9);
-        List<Integer> noFoos = new ArrayList<>();
+        Stream<Integer> foos = of(1, 2, 3, 4, 5, 6, 7, 8, 9);
+        Stream<Integer> noFoos = empty();
 
-        Optional<Integer> any = foos.stream().findAny();
-        Optional<Integer> empty = noFoos.stream().findAny();
+        Optional<Integer> any = foos.findAny();
+        Optional<Integer> empty = noFoos.findAny();
 
         assertTrue(any.isPresent());
         assertFalse(empty.isPresent());
@@ -108,9 +110,9 @@ public class StreamTests {
 
     @Test
     public void canGetUniqueElements(){
-        List<Integer> foos = Arrays.asList(1,2,3,1,2,3,1,2,3);
+        Stream<Integer> foos = of(1, 2, 3, 1, 2, 3, 1, 2, 3);
 
-        List<Integer> aSlice = foos.stream().distinct().collect(toList());
+        List<Integer> aSlice = foos.distinct().collect(toList());
 
         assertTrue(aSlice.contains(1));
         assertTrue(aSlice.contains(2));
@@ -120,7 +122,7 @@ public class StreamTests {
 
     @Test
     public void canPerformAnActionOnEachItem(){
-        List<Foo> foos = Arrays.asList(new Foo(), new Foo());
+        List<Foo> foos = asList(new Foo(), new Foo());
 
         foos.forEach(f-> {f.value = "bar";});
 
@@ -129,19 +131,8 @@ public class StreamTests {
     }
 
     @Test
-    public void canPerformAnActionOnEachItemAndThenTeeThePipelineBack(){
-        List<Foo> foos = Arrays.asList(new Foo(), new Foo());
-
-        foos.stream().forEach(f-> {f.value = "bar";});
-        List<Foo> result = foos.stream().collect(toList());
-
-        assertEquals("bar", result.get(0).value);
-        assertEquals("bar", result.get(1).value);
-    }
-
-    @Test
     public void canSortNatty() throws Exception {
-        Stream<Integer> ints = Arrays.asList(182, 666, 2, 42).stream();
+        Stream<Integer> ints = of(182, 666, 2, 42);
         List<Integer> sorted = ints.sorted().collect(toList());
 
         assertEquals((Integer)2, sorted.get(0));
@@ -152,26 +143,26 @@ public class StreamTests {
 
     @Test
     public void canSortWithAComparator(){
-        List<String> foos = Arrays.asList("Indigo", "Blue", "Green", "Violet", "Yellow", "Orange", "Red");
+        Stream<String> foos = of("Indigo", "Blue", "Green", "Violet", "Yellow", "Orange", "Red");
 
-        List<String> sorted = foos.stream().sorted((s1, s2)->s1.length() - s2.length()).collect(toList());
+        List<String> sorted = foos.sorted((s1, s2)->s1.length() - s2.length()).collect(toList());
 
         assertEquals("Red", sorted.get(0));
     }
 
     @Test
     public void canGetMax(){
-        List<Integer> foos = Arrays.asList(1,2,3);
+        Stream<Integer> foos = of(1, 2, 3);
 
-        Optional<Integer> max = foos.stream().max((left, right) -> left - right);
+        Optional<Integer> max = foos.max((left, right) -> left - right);
         assertEquals((Integer)3, max.get());
     }
 
     @Test
     public void canGetMin(){
-        List<Integer> foos = Arrays.asList(1,2,3);
+        Stream<Integer> foos = of(1, 2, 3);
 
-        Optional<Integer> max = foos.stream().min((left, right) -> left - right);
+        Optional<Integer> max = foos.min((left, right) -> left - right);
         assertEquals((Integer)1, max.get());
     }
 
@@ -180,9 +171,23 @@ public class StreamTests {
     @Test
     public void canPeekAtItems() throws Exception {
         LOG = new ArrayList<>();
-        List<Integer> foos = Arrays.asList(1,2,3);
+        List<Integer> foos = asList(1, 2, 3);
         foos.stream().peek(x -> LOG.add(x)).collect(toList());
 
         assertEquals(foos, LOG);
     }
+
+    @Test
+    public void onceAStreamIsConsumedItCannotBeAgain() throws Exception {
+        Stream<Integer> ints = of(1,2,3);
+        ints.allMatch(x -> x > 0);
+
+        try{
+            ints.allMatch(x -> x > 0);
+            fail("Should have thrown IllegalStateException");
+        }catch (IllegalStateException e){
+
+        }
+    }
+
 }
