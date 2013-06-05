@@ -13,14 +13,15 @@ public class LexicalScoping {
     public static final String HELLO_WORLD = "Hello, world!";
 
     Supplier<String> r1 = () -> this.toString();
+
     Supplier<String> r2 = () -> toString();
 
-    private class NotALambda implements Supplier<String> {
+    Supplier<String> r3 = new Supplier<String>() {
         @Override
         public String get() {
             return this.toString();
         }
-    }
+    };
 
 
     public String toString() { return HELLO_WORLD; }
@@ -29,8 +30,8 @@ public class LexicalScoping {
     public void lambdasDontHaveTheirOwnThis(){
         assertThat(HELLO_WORLD, is(r1.get()));
         assertThat(HELLO_WORLD, is(r2.get()));
-        assertThat(HELLO_WORLD, not(new NotALambda().get()));
-        // System.out.println("new NotALambda().get() = " + new NotALambda().get());
+        assertThat(HELLO_WORLD, not(r3.get()));
+        // System.out.println("new NotALambda().get() = " + r3.get());
     }
 
 
