@@ -3,11 +3,14 @@ package examples.streams;
 import examples.Foo;
 import org.junit.Test;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
-import static java.util.stream.Collectors.toSet;
 import static junit.framework.Assert.*;
 
 public class StreamTests {
@@ -107,7 +110,7 @@ public class StreamTests {
     public void canGetUniqueElements(){
         List<Integer> foos = Arrays.asList(1,2,3,1,2,3,1,2,3);
 
-        Set<Integer> aSlice = foos.stream().collect(toSet());
+        List<Integer> aSlice = foos.stream().distinct().collect(toList());
 
         assertTrue(aSlice.contains(1));
         assertTrue(aSlice.contains(2));
@@ -137,6 +140,17 @@ public class StreamTests {
     }
 
     @Test
+    public void canSortNatty() throws Exception {
+        Stream<Integer> ints = Arrays.asList(182, 666, 2, 42).stream();
+        List<Integer> sorted = ints.sorted().collect(toList());
+
+        assertEquals((Integer)2, sorted.get(0));
+        assertEquals((Integer)42, sorted.get(1));
+        assertEquals((Integer)182, sorted.get(2));
+        assertEquals((Integer)666, sorted.get(3));
+    }
+
+    @Test
     public void canSortWithAComparator(){
         List<String> foos = Arrays.asList("Indigo", "Blue", "Green", "Violet", "Yellow", "Orange", "Red");
 
@@ -144,8 +158,6 @@ public class StreamTests {
 
         assertEquals("Red", sorted.get(0));
     }
-
-
 
     @Test
     public void canGetMax(){
@@ -163,4 +175,14 @@ public class StreamTests {
         assertEquals((Integer)1, max.get());
     }
 
+    private List<Integer> LOG;
+
+    @Test
+    public void canPeekAtItems() throws Exception {
+        LOG = new ArrayList<>();
+        List<Integer> foos = Arrays.asList(1,2,3);
+        foos.stream().peek(x -> LOG.add(x)).collect(toList());
+
+        assertEquals(foos, LOG);
+    }
 }
