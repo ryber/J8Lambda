@@ -1,11 +1,13 @@
 package examples.streams;
 
 import examples.Foo;
+import jdk.nashorn.internal.ir.annotations.Ignore;
 import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+import java.util.UUID;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -188,5 +190,14 @@ public class StreamTests {
         }catch (IllegalStateException e){
 
         }
+    }
+
+    @Test
+    @Ignore
+    public void canCreateAGeneratedStream() throws Exception {
+        Stream<String> guids = Stream.generate(() -> UUID.randomUUID().toString());
+
+        // This runs forever
+        guids.forEach(x -> System.out.println("x = " + x));
     }
 }
