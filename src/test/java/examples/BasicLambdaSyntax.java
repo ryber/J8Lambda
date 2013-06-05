@@ -84,7 +84,7 @@ public class BasicLambdaSyntax {
 
     @Test
     public void implAInterfaceInLambda(){
-        Squarer<Integer, Integer> s = (x) -> x * x;
+        Squarer<Integer, Integer> s = x -> x * x;
         assertEquals((Integer)25, s.square(5));
     }
 
