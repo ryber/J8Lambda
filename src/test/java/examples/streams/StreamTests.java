@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static java.util.Arrays.asList;
@@ -22,7 +21,7 @@ public class StreamTests {
     public void canFilterCollectionToAnother(){
         Stream<Integer> foos = of(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
-        List<Integer> lessThan5 = foos.filter(x -> x < 5).collect(Collectors.<Integer>toList());
+        List<Integer> lessThan5 = foos.filter(x -> x < 5).collect(toList());
 
         assertTrue(lessThan5.contains(4));
         assertFalse(lessThan5.contains(5));
