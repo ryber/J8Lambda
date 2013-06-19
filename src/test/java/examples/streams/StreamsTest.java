@@ -4,7 +4,6 @@ import examples.Foo;
 import org.junit.Test;
 
 import java.util.List;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 import java.util.stream.Streams;
 
@@ -20,16 +19,6 @@ public class StreamsTest {
         Stream<Integer> ints2 = of(4, 5, 6);
 
         Stream<Integer> result = Streams.concat(ints, ints2);
-
-        assertEquals(6, result.count());
-    }
-
-    @Test
-    public void specializedConcatForPrims() throws Exception {
-        IntStream ints = IntStream.of(1,2,3);
-        IntStream ints2 = IntStream.of(4,5,6);
-
-        IntStream result = Streams.concat(ints, ints2);
 
         assertEquals(6, result.count());
     }
