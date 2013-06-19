@@ -64,10 +64,22 @@ public class Maps {
         Map<String,String> map = new HashMap<>();
         map.put("foo","bar");
 
-        map.merge("foo", "rad", (old,nw) -> old + nw);
+        map.merge("foo", "rad", (old, nw) -> old + nw);
         map.merge("baz", "woot", (old,nw) -> old + nw);
 
         assertEquals("barrad", map.get("foo"));
         assertEquals("woot", map.get("baz"));
+    }
+
+    @Test
+    public void recomputeAllItems() throws Exception {
+        Map<String, String> map = new HashMap<>();
+        map.put("foo", "bar");
+        map.put("baz", "qux");
+
+        map.replaceAll((k,v) -> "--" + v);
+
+        assertEquals("--bar", map.get("foo"));
+        assertEquals("--qux", map.get("baz"));
     }
 }
