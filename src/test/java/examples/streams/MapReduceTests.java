@@ -7,7 +7,6 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
@@ -28,17 +27,8 @@ public class MapReduceTests {
     }
 
     @Test
-    public void specialtyStreamMapsForPrims() throws Exception {
-        Stream<String> ids = of("42");
-
-        IntStream ints = ids.mapToInt(x -> Integer.valueOf(x));
-
-        assertEquals(42, ints.findFirst().getAsInt());
-    }
-
-    @Test
     public void voidFlatMapsFlattenSetsOfStreams(){
-        Stream<Bar> bars = of(new Bar("a","b","c"), new Bar("z","y", "x"));
+        Stream<Bar> bars = of(new Bar("a","b","c"), new Bar("z","y","x"));
 
         List<String> names = bars.flatMap(x -> x.names.stream()).collect(toList());
 

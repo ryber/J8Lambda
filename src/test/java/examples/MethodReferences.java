@@ -2,10 +2,7 @@ package examples;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
-import java.util.List;
 
 import static junit.framework.Assert.*;
 
@@ -17,6 +14,8 @@ public class MethodReferences {
         MyExecute.isOn = false;
 
         Runnable task = MyExecute::go;
+
+
 
         assertFalse(MyExecute.isOn);
 

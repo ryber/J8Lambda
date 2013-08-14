@@ -14,19 +14,23 @@ public class Maps {
     public void computeIfValueIsAbsent() throws Exception {
         Map<String, String> map = new HashMap<>();
 
-        map.computeIfAbsent("foo", (k) -> k.toUpperCase());
+        map.computeIfAbsent("foo", (k) -> loadFraomDataBase(k));
 
-        assertEquals("FOO", map.get("foo"));
+        assertEquals("Big ol object with a key of foo", map.get("foo"));
     }
 
     @Test
     public void willNotComputeIfValueIsPresent() throws Exception {
         Map<String, String> map = new HashMap<>();
-        map.put("foo", "bar");
+        map.put("foo", "already loaded");
 
-        map.computeIfAbsent("foo", (k) -> k.toUpperCase());
+        map.computeIfAbsent("foo", (k) -> loadFraomDataBase(k));
 
-        assertEquals("bar", map.get("foo"));
+        assertEquals("already loaded", map.get("foo"));
+    }
+
+    private String loadFraomDataBase(String key) {
+        return "Big ol object with a key of " + key;
     }
 
     @Test
