@@ -4,7 +4,6 @@ import org.junit.Test;
 
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
-import java.util.stream.Streams;
 
 import static java.util.stream.Stream.of;
 import static junit.framework.Assert.assertEquals;
@@ -24,7 +23,7 @@ public class PrimitiveStreams {
         IntStream ints = IntStream.of(1,2,3);
         IntStream ints2 = IntStream.of(4,5,6);
 
-        IntStream result = Streams.concat(ints, ints2);
+        IntStream result = IntStream.concat(ints, ints2);
 
         assertEquals(6, result.count());
     }

@@ -19,14 +19,14 @@ public class CollectorsTests {
 
     @Test
     public void canCollectIntoAStringBuilder() throws Exception {
-        StringBuilder strings = Stream.of("foo", "bar", "baz").collect(toStringBuilder());
-        assertEquals("foobarbaz", strings.toString());
+        String strings = Stream.of("foo", "bar", "baz").collect(joining());
+        assertEquals("foobarbaz", strings);
     }
 
     @Test
     public void canCollectToAStringJoiner() throws Exception {
-        StringJoiner strings = Stream.of("foo", "bar", "baz").collect(toStringJoiner(":"));
-        assertEquals("foo:bar:baz", strings.toString());
+        String strings = Stream.of("foo", "bar", "baz").collect(joining(":"));
+        assertEquals("foo:bar:baz", strings);
     }
 
     @Test

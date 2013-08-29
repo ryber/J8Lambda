@@ -197,6 +197,6 @@ public class StreamTests {
         Stream<String> guids = Stream.generate(() -> UUID.randomUUID().toString());
 
         // This runs forever
-        guids.forEach(x -> System.out.println("x = " + x));
+        // guids.forEach(x -> System.out.println("x = " + x));
     }
 }

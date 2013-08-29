@@ -27,8 +27,8 @@ public class ConsumerTests {
         PennyTray pt = new PennyTray(20);
 
         Consumer<PennyTray> c = p -> p.amount = p.amount - 2;
-        c.chain(s -> s.amount++)
-                .chain(s -> s.amount = s.amount * 2)
+        c.andThen(s -> s.amount++)
+                .andThen(s -> s.amount = s.amount * 2)
                 .accept(pt);
 
         assertEquals(38, pt.amount);
