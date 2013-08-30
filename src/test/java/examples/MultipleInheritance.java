@@ -10,8 +10,8 @@ public class MultipleInheritance {
     interface C extends A { default int foo() {return 3;}}
 
     // D and E will not compile because its impl of foo is ambiguous
-    // interface D extends B,C { }
-    // class E implements B,C {}
+     // interface D extends B,C { }
+     // class E implements B,C {}
 
     // But we can imp both B and C if we specify the foo we want
     interface F extends B,C {default int foo(){return B.super.foo(); }}

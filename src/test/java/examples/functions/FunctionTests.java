@@ -34,17 +34,14 @@ public class FunctionTests {
 
     @Test
     public void whatsupWithChaining(){
-        UnaryOperator<String> mash = (s -> {
-            System.out.println("s = " + s);
-            return s.toUpperCase();
-        });
+        UnaryOperator<String> mash = s -> s.toUpperCase();
 
         String foo = mash.andThen(s -> s.replace("BAR","zip"))
                 .andThen(s -> s.substring(0,s.length() - 1))
                 .andThen(s -> "woot" + s)
-                        //.compose((Object o) -> "wat" + o)
+                .compose((Object o) -> "wat" + o)
                 .apply("foobarqux");
 
-        System.out.println("mash = " + mash.apply(foo));
+        assertEquals("wootWATFOOzipQU",foo);
     }
 }
