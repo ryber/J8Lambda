@@ -2,9 +2,7 @@ package examples.functions;
 
 import org.junit.Test;
 
-import java.util.function.BiConsumer;
-import java.util.function.Consumer;
-import java.util.function.IntConsumer;
+import java.util.function.*;
 
 import static junit.framework.Assert.assertEquals;
 

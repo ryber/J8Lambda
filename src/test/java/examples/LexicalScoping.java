@@ -23,6 +23,13 @@ public class LexicalScoping {
         }
     };
 
+    Supplier<String> r4 = new Supplier<String>() {
+        @Override
+        public String get() {
+            return toString();
+        }
+    };
+
 
     public String toString() { return HELLO_WORLD; }
 
@@ -31,6 +38,11 @@ public class LexicalScoping {
         assertThat(HELLO_WORLD, is(r1.get()));
         assertThat(HELLO_WORLD, is(r2.get()));
         assertThat(HELLO_WORLD, not(r3.get()));
+
+        System.out.println("r1.get() = " + r1.get());
+        System.out.println("r2.get() = " + r2.get());
+        System.out.println("r3.get() = " + r3.get());
+        System.out.println("r4.get() = " + r4.get());
         // System.out.println("new NotALambda().get() = " + r3.get());
     }
 
