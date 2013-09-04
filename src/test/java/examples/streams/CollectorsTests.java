@@ -4,7 +4,6 @@ import org.junit.Test;
 
 import java.util.Map;
 import java.util.Set;
-import java.util.StringJoiner;
 import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.*;
@@ -43,13 +42,27 @@ public class CollectorsTests {
         assertTrue(lastNamesByCity.get("Des Moines").contains("Nancy"));
     }
 
+    @Test
+    public void mappingWIthMethodRefs() throws Exception {
+        Stream<Person> foos = Stream.of(new Person("Ryan"), new Person("Dan"));
+
+        String firstName = foos.map(Person::getLastName).findFirst().get();
+        assertEquals("Ryan", firstName);
+    }
+
+
+
     public class Person {
-        private String city;
-        private String lastName;
+        private final String city;
+        private final String lastName;
 
         public Person(String city, String lastName){
             this.city = city;
             this.lastName = lastName;
+        }
+
+        public Person(String lastName) {
+           this("Keokuk", lastName);
         }
 
         public String getLastName() {

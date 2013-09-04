@@ -37,6 +37,17 @@ public class MapReduceTests {
         assertThat(names, hasItem("y"));
     }
 
+    @Test
+    public void flattenStreamsOfStreams(){
+        Stream<Stream<String>> bars = of(of("a","b","c"), of("z","y","x"));
+
+        List<String> names = bars.flatMap(x -> x).collect(toList());
+
+        assertEquals(6, names.size());
+        assertThat(names, hasItem("b"));
+        assertThat(names, hasItem("y"));
+    }
+
     private class Bar {
         private Collection<String> names;
 

@@ -14,9 +14,10 @@ public class Maps {
     public void computeIfValueIsAbsent() throws Exception {
         Map<String, String> map = new HashMap<>();
 
-        map.computeIfAbsent("foo", (k) -> loadFraomDataBase(k));
+        String foo = map.computeIfAbsent("foo", (k) -> loadFraomDataBase(k));
 
         assertEquals("Big ol object with a key of foo", map.get("foo"));
+        assertEquals("Big ol object with a key of foo", foo);
     }
 
     @Test
