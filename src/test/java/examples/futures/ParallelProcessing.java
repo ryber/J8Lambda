@@ -1,4 +1,4 @@
-package examples;
+package examples.futures;
 
 import org.junit.Test;
 
