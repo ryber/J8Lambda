@@ -1,0 +1,2759 @@
+{
+   "info":{
+      "num_results":864,
+      "limit":100,
+      "offset":0,
+      "query":"kraftwerk",
+      "type":"track",
+      "page":1
+   },
+   "tracks":[
+      {
+         "album":{
+            "released":"2008",
+            "href":"spotify:album:3S4N822SAfApQkilUNzgzx",
+            "name":"Playlist: Electro",
+            "availability":{
+               "territories":"AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LT LU LV MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"The Model - 2004 Digital Remaster",
+         "popularity":"0.54",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEA340400238"
+            }
+         ],
+         "length":222.36,
+         "href":"spotify:track:3ptx9icNMLTkIQOilXbbld",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Radioactivity - 2009 Digital Remaster",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903009"
+            }
+         ],
+         "length":401.253,
+         "href":"spotify:track:3kwql90R2gmkK12R8uGHCs",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"1974",
+            "href":"spotify:album:0DzC0tyowMi2O9QfkDRvfJ",
+            "name":"Autobahn (2009 - Remaster)",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Autobahn - 2009 - Remaster",
+         "popularity":"0.49",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900374"
+            }
+         ],
+         "length":1367.093,
+         "href":"spotify:track:31uidLEHAcF8Cw1cX1VCS8",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:3eyz60xEK5dGEeZF1JJSi9",
+            "name":"The Man Machine [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AU CZ DK FI HK HR HU LI LT MX NL SE SI"
+            }
+         },
+         "name":"The Robots - 2009 Digital Remaster",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903079"
+            }
+         ],
+         "length":372.76,
+         "href":"spotify:track:5eqZWYQ5tbIehx00NeKXz7",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Tour De France - 2009 - Remaster",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900403"
+            }
+         ],
+         "length":312.76,
+         "href":"spotify:track:5uNlgK7FEg6r9BGy12P9Sx",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"12"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:42hCHiMtfs7mfBTVX3V6k7",
+            "name":"Computer World [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Computer Love - 2009 - Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900383"
+            }
+         ],
+         "length":439.44,
+         "href":"spotify:track:5BXBi5pLeJhblMVH2ltjpl",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Europe Endless - 2009 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903028"
+            }
+         ],
+         "length":581.026,
+         "href":"spotify:track:5jEfJiugp5E2E2kxQbhRcQ",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Trans Europe Express - 2009 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903075"
+            }
+         ],
+         "length":397.373,
+         "href":"spotify:track:3UjH6apk0ogZeIqhHbjrRU",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:3eyz60xEK5dGEeZF1JJSi9",
+            "name":"The Man Machine [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AU CZ DK FI HK HR HU LI LT MX NL SE SI"
+            }
+         },
+         "name":"The Model - 2009 Digital Remaster",
+         "popularity":"0.43",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903078"
+            }
+         ],
+         "length":220.533,
+         "href":"spotify:track:1FL9DHDSED6lxNMDJUJQvB",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"The Robots - 2009 - Remaster",
+         "popularity":"0.42",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900404"
+            }
+         ],
+         "length":538.64,
+         "href":"spotify:track:2Dx4OYlS0zhjSm0z43midb",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:42hCHiMtfs7mfBTVX3V6k7",
+            "name":"Computer World [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Computer World - 2009 - Remaster",
+         "popularity":"0.41",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900379"
+            }
+         ],
+         "length":306.2,
+         "href":"spotify:track:1Q8n7UU4pULe4Mf1m3DxCm",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Das Model - Live",
+         "popularity":"0.41",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402494"
+            }
+         ],
+         "length":221.866,
+         "href":"spotify:track:7a1S0OQwbbnR4xrP6yi82W",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Tour De France \u00c9tape 1 - 2009 - Remaster",
+         "popularity":"0.4",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900393"
+            }
+         ],
+         "length":267.493,
+         "href":"spotify:track:4AaE9MTs3zizLJFJXo7Rnm",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Tour De France \u00c9tape 2 - 2009 - Remaster",
+         "popularity":"0.39",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900394"
+            }
+         ],
+         "length":401.266,
+         "href":"spotify:track:4VHTOWCMRnKAgg4a9AKdwQ",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:42hCHiMtfs7mfBTVX3V6k7",
+            "name":"Computer World [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Pocket Calculator - 2009 - Remaster",
+         "popularity":"0.39",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900380"
+            }
+         ],
+         "length":296.8,
+         "href":"spotify:track:4xa1gzSKd6ihtVGd8dWs69",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Prologue - 2009 - Remaster",
+         "popularity":"0.38",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900392"
+            }
+         ],
+         "length":31.613,
+         "href":"spotify:track:5bRcU0Jo1gyCBOsSln1War",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:42hCHiMtfs7mfBTVX3V6k7",
+            "name":"Computer World [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Numbers - 2009 - Remaster",
+         "popularity":"0.37",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900381"
+            }
+         ],
+         "length":200.333,
+         "href":"spotify:track:5eLluqLzN5Yj3uOsnUuDOc",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Showroom Dummies - 2009 Digital Remaster",
+         "popularity":"0.37",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903030"
+            }
+         ],
+         "length":375.32,
+         "href":"spotify:track:14WXiFyHivuF9FmGD0c7Ot",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0nAgRvbMJVG8g5iYk9v9pa",
+            "name":"Techno Pop [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Boing Boom Tschak - 2009 - Remaster",
+         "popularity":"0.37",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900386"
+            }
+         ],
+         "length":179.08,
+         "href":"spotify:track:3KhfoZaQXkN6BomWRMinc8",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:7uywQiWxD6krusHiYqujtF",
+            "name":"Die Mensch-Maschine",
+            "availability":{
+               "territories":"AT CH DE"
+            }
+         },
+         "name":"Das Modell - 2009 Digital Remaster",
+         "popularity":"0.37",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900217"
+            }
+         ],
+         "length":219.68,
+         "href":"spotify:track:5xf5uP70cZB1YPHS52IMex",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Autobahn - Live",
+         "popularity":"0.36",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402453"
+            }
+         ],
+         "length":531.493,
+         "href":"spotify:track:6PckDXH6bx6d8tw2ULGsNx",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"A\u00e9ro Dynamik - 2009 - Remaster",
+         "popularity":"0.36",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900398"
+            }
+         ],
+         "length":304.506,
+         "href":"spotify:track:6Ey0pDNYeVeZDabYdDqWav",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Geiger Counter - 2009 Digital Remaster",
+         "popularity":"0.36",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903008"
+            }
+         ],
+         "length":67.64,
+         "href":"spotify:track:0n1Oouw1a7MvNyvJUNntZP",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Tour De France \u00c9tape 3 - 2009 - Remaster",
+         "popularity":"0.36",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900395"
+            }
+         ],
+         "length":236.4,
+         "href":"spotify:track:40BHuTz4IuRoHFLCH8oFNM",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2010",
+            "href":"spotify:album:730A6RgHYFTi2LYUorYmHU",
+            "name":"Kraftwerk",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Global Domination",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USA2P1177694"
+            }
+         ],
+         "popularity":"0.36",
+         "explicit":true,
+         "length":229.073,
+         "href":"spotify:track:7vDsHa9ZAgPXsRFwh5AsHB",
+         "artists":[
+            {
+               "href":"spotify:artist:7cTfr9nU9kwlKrVxwghbxN",
+               "name":"Snowgoons"
+            },
+            {
+               "href":"spotify:artist:75I0Ju8oeSEKzG3IitS483",
+               "name":"Sicknature"
+            },
+            {
+               "href":"spotify:artist:5sXo36Ivn6szSt3INzomqC",
+               "name":"Lord Lhus"
+            },
+            {
+               "href":"spotify:artist:2fr702VRVFZyDIIFUsLTaJ",
+               "name":"Sean Strange"
+            },
+            {
+               "href":"spotify:artist:1OTd5yZApZxhjFTjETUdRa",
+               "name":"Psych Ward"
+            }
+         ],
+         "track-number":"18"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Radioactivity - 2009 - Remaster",
+         "popularity":"0.36",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900409"
+            }
+         ],
+         "length":412.773,
+         "href":"spotify:track:1YgE1esjC1pCvr3lX6e3t1",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"1987",
+            "href":"spotify:album:07BPkQfT4B5xjDwjCxRiN2",
+            "name":"Computer World (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Computer Love - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900383"
+            }
+         ],
+         "length":439.44,
+         "href":"spotify:track:7CZdd0S4WTktuiiARS8pY4",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Vitamin - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900397"
+            }
+         ],
+         "length":489.826,
+         "href":"spotify:track:2brlPvLqHOS3oCMF7taEvc",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"The Man Machine - Live",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402446"
+            }
+         ],
+         "length":475.306,
+         "href":"spotify:track:77ZppMuJDiQEpc3LaoZOvi",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Hall Of Mirrors - 2009 Digital Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903029"
+            }
+         ],
+         "length":476.493,
+         "href":"spotify:track:5HdmaaDbEvxd8AFJNwnkWC",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0nAgRvbMJVG8g5iYk9v9pa",
+            "name":"Techno Pop [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Musique Non Stop - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900388"
+            }
+         ],
+         "length":344.48,
+         "href":"spotify:track:5PKFJx9mXZQo84XQsASKrB",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:42hCHiMtfs7mfBTVX3V6k7",
+            "name":"Computer World [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Computer World 2 - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900382"
+            }
+         ],
+         "length":204.666,
+         "href":"spotify:track:2Yj7cIHRpk6Djcws27zb7r",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:42hCHiMtfs7mfBTVX3V6k7",
+            "name":"Computer World [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Home Computer - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900384"
+            }
+         ],
+         "length":380.92,
+         "href":"spotify:track:0OAiLnWcipov7qYjSI7OqG",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Autobahn - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900408"
+            }
+         ],
+         "length":568.04,
+         "href":"spotify:track:6B4esOIGqeqww5Q1ZlZ6YF",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Radioland - 2009 Digital Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900196"
+            }
+         ],
+         "length":351.066,
+         "href":"spotify:track:2u0Lu5pNZ22HAmDwWdRfix",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Franz Schubert - 2009 Digital Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900212"
+            }
+         ],
+         "length":266.253,
+         "href":"spotify:track:4aJulXrGlrQFi2cHLc6kSd",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Elektro Kardiogramm - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900400"
+            }
+         ],
+         "length":316.066,
+         "href":"spotify:track:57vPdmnkl8sXyNsfnvRbSW",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Chrono - 2009 - Remaster",
+         "popularity":"0.35",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900396"
+            }
+         ],
+         "length":200.013,
+         "href":"spotify:track:7na1px2yPkgKc5rVWeMu3A",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Computer Love - 2009 - Remaster",
+         "popularity":"0.34",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900405"
+            }
+         ],
+         "length":399.453,
+         "href":"spotify:track:4muywZEur7Q8WRd1QEkk2U",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:42hCHiMtfs7mfBTVX3V6k7",
+            "name":"Computer World [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"It's More Fun To Compute - 2009 - Remaster",
+         "popularity":"0.34",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900385"
+            }
+         ],
+         "length":256.466,
+         "href":"spotify:track:4ytERlujqfGWtrpdupyCSG",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0nAgRvbMJVG8g5iYk9v9pa",
+            "name":"Techno Pop [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Techno Pop - 2009 - Remaster",
+         "popularity":"0.34",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900387"
+            }
+         ],
+         "length":461.6,
+         "href":"spotify:track:55rXjXKe82LRqRJKqipjip",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:3eyz60xEK5dGEeZF1JJSi9",
+            "name":"The Man Machine [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AU CZ DK FI HK HR HU LI LT MX NL SE SI"
+            }
+         },
+         "name":"The Man Machine - 2009 Digital Remaster",
+         "popularity":"0.34",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903077"
+            }
+         ],
+         "length":332.333,
+         "href":"spotify:track:4rbt9xJMIYwjTyMUYSvEL2",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Metal On Metal - 2009 Digital Remaster",
+         "popularity":"0.34",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903031"
+            }
+         ],
+         "length":131.693,
+         "href":"spotify:track:2GQwwgabX1VBacz4kP5fSX",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0nAgRvbMJVG8g5iYk9v9pa",
+            "name":"Techno Pop [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"The Telephone Call - 2009 - Remaster",
+         "popularity":"0.34",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900389"
+            }
+         ],
+         "length":230.2,
+         "href":"spotify:track:3ZpiyjefPA3Vyq1AuYO4ib",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Airwaves - 2009 Digital Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903011"
+            }
+         ],
+         "length":280.32,
+         "href":"spotify:track:28qvZWA2nwiGKjCS3GaRxo",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1987",
+            "href":"spotify:album:07BPkQfT4B5xjDwjCxRiN2",
+            "name":"Computer World (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Pocket Calculator - 2009 - Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900380"
+            }
+         ],
+         "length":296.8,
+         "href":"spotify:track:6bDRVbdZEyBnmOX0Yjh5rf",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Ohm Sweet Ohm - 2009 Digital Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900205"
+            }
+         ],
+         "length":340.333,
+         "href":"spotify:track:0LcH6y9B3j6PxHLxVkuQMB",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"12"
+      },
+      {
+         "album":{
+            "released":"1987",
+            "href":"spotify:album:07BPkQfT4B5xjDwjCxRiN2",
+            "name":"Computer World (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Numbers - 2009 - Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900381"
+            }
+         ],
+         "length":200.333,
+         "href":"spotify:track:7l6zV8bdJs6LtYMdjAn2BJ",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Abzug - 2009 Digital Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900211"
+            }
+         ],
+         "length":293.706,
+         "href":"spotify:track:1u32K3p3J3t31I2bWw4SZN",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"1974",
+            "href":"spotify:album:0DzC0tyowMi2O9QfkDRvfJ",
+            "name":"Autobahn (2009 - Remaster)",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Kometenmelodie 1 - 2009 - Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900375"
+            }
+         ],
+         "length":401.986,
+         "href":"spotify:track:4QSuBZiLccXIvKL0zn8bTx",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Pocket Calculator - 2009 - Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900406"
+            }
+         ],
+         "length":272.146,
+         "href":"spotify:track:4ZVX1Y9hhkyQZuO94VsYIa",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Titanium - 2009 - Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900399"
+            }
+         ],
+         "length":201.306,
+         "href":"spotify:track:1ZoH2fMBNtXBG06y8wpgoz",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Antenna - 2009 Digital Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903015"
+            }
+         ],
+         "length":222.146,
+         "href":"spotify:track:5DGKGyFPchLUjGbZjcQHZb",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Radioactivitat - Live",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402495"
+            }
+         ],
+         "length":461.786,
+         "href":"spotify:track:3acq1RmkEu2ZHBmHjEZgN9",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1974",
+            "href":"spotify:album:5ysfe4Bmv9xLNaPDrXFMBr",
+            "name":"Autobahn",
+            "availability":{
+               "territories":"AT CH DE"
+            }
+         },
+         "name":"Autobahn - 2009 Digital Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900374"
+            }
+         ],
+         "length":1366.44,
+         "href":"spotify:track:44HjyYf1lYuO7oXRusudHN",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1987",
+            "href":"spotify:album:07BPkQfT4B5xjDwjCxRiN2",
+            "name":"Computer World (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Computer World - 2009 - Remaster",
+         "popularity":"0.33",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900379"
+            }
+         ],
+         "length":306.2,
+         "href":"spotify:track:3kW6TmJZY1jLf1PXlLdANt",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:4EXblM6xtyQO8pkFCT99jm",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Model - Live",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402454"
+            }
+         ],
+         "length":221.8,
+         "href":"spotify:track:0mayl7AnMBZWLic1gLPoXX",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"La Forme - 2009 - Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900401"
+            }
+         ],
+         "length":521.213,
+         "href":"spotify:track:4reP0G5ape4eqX7Q7tLHzC",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Trans Europe Express - 2009 - Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900410"
+            }
+         ],
+         "length":200.2,
+         "href":"spotify:track:6an4aeAOL3j4Wp36kXjiFF",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"1974",
+            "href":"spotify:album:0DzC0tyowMi2O9QfkDRvfJ",
+            "name":"Autobahn (2009 - Remaster)",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Kometenmelodie 2 - 2009 - Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900376"
+            }
+         ],
+         "length":331.146,
+         "href":"spotify:track:1aIWNzwaINr2gyTEZ1ffSR",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:4EXblM6xtyQO8pkFCT99jm",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Autobahn - Live",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402453"
+            }
+         ],
+         "length":531.56,
+         "href":"spotify:track:5gHVDvnGiiE0tzL3tMv8t8",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:4EXblM6xtyQO8pkFCT99jm",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Man Machine - Live",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402446"
+            }
+         ],
+         "length":475.306,
+         "href":"spotify:track:51sYpEz0agMEXnsyeqqChl",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:3eyz60xEK5dGEeZF1JJSi9",
+            "name":"The Man Machine [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AU CZ DK FI HK HR HU LI LT MX NL SE SI"
+            }
+         },
+         "name":"Neon Lights - 2009 Digital Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903076"
+            }
+         ],
+         "length":532.533,
+         "href":"spotify:track:1krBKWusytTAT2jNWJGA7m",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0nAgRvbMJVG8g5iYk9v9pa",
+            "name":"Techno Pop [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Sex Object - 2009 - Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900390"
+            }
+         ],
+         "length":411.4,
+         "href":"spotify:track:73ErwMSDyCeCkJXjdmtiM7",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:3eyz60xEK5dGEeZF1JJSi9",
+            "name":"The Man Machine [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AU CZ DK FI HK HR HU LI LT MX NL SE SI"
+            }
+         },
+         "name":"Spacelab - 2009 Digital Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900215"
+            }
+         ],
+         "length":357.106,
+         "href":"spotify:track:48Q7pVDuBivnR5rdf6RGYT",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Intermission - 2009 Digital Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903012"
+            }
+         ],
+         "length":39.146,
+         "href":"spotify:track:3CoeneMLe2hwbFM1q8Ezm4",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Voice Of Energy - 2009 Digital Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903014"
+            }
+         ],
+         "length":54.826,
+         "href":"spotify:track:5D2r4HYSrcWrZI0DYAivYU",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2010",
+            "href":"spotify:album:730A6RgHYFTi2LYUorYmHU",
+            "name":"Kraftwerk",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"The Uncrushables",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USA2P1177678"
+            }
+         ],
+         "popularity":"0.32",
+         "explicit":true,
+         "length":258.191,
+         "href":"spotify:track:7FWX2OY94DtoawsGbsk524",
+         "artists":[
+            {
+               "href":"spotify:artist:7cTfr9nU9kwlKrVxwghbxN",
+               "name":"Snowgoons"
+            },
+            {
+               "href":"spotify:artist:3U4dymG7xpCGJwz3dXo3Si",
+               "name":"Sabac Red"
+            },
+            {
+               "href":"spotify:artist:75I0Ju8oeSEKzG3IitS483",
+               "name":"Sicknature"
+            },
+            {
+               "href":"spotify:artist:1mMjwoytmHP5dTJbIQxN4V",
+               "name":"ILL Bill"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"The Robots - Live",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402464"
+            }
+         ],
+         "length":443.733,
+         "href":"spotify:track:7F62XdYB0p3FihndUrNHpu",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0HHRIVjvBcnTepfeRVgS2f",
+            "name":"Trans Europe Express [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Endless Endless - 2009 Digital Remaster",
+         "popularity":"0.32",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903032"
+            }
+         ],
+         "length":55.333,
+         "href":"spotify:track:4tfZ1qmZqykZaLQ4CWs5fj",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"News - 2009 Digital Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903013"
+            }
+         ],
+         "length":77.16,
+         "href":"spotify:track:16H9sRxQihTbpOO4bq9uvO",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Radio Stars - 2009 Digital Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903016"
+            }
+         ],
+         "length":213.52,
+         "href":"spotify:track:6gtkYTpMzzy6MynTO0oZuC",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:3eyz60xEK5dGEeZF1JJSi9",
+            "name":"The Man Machine [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AU CZ DK FI HK HR HU LI LT MX NL SE SI"
+            }
+         },
+         "name":"Metropolis - 2009 Digital Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900216"
+            }
+         ],
+         "length":361.106,
+         "href":"spotify:track:24G3gIRBrI94XfUyjc0pxI",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Uranium - 2009 Digital Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USCA20903017"
+            }
+         ],
+         "length":87.146,
+         "href":"spotify:track:3vwp3tQBaEyX3i2viPbj4e",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6NYyISRJeOlJ1IldQtNvMw",
+            "name":"Tour De France [2009 - Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"R\u00e9g\u00e9neration - 2009 - Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900402"
+            }
+         ],
+         "length":77.12,
+         "href":"spotify:track:2dXXvXNWVoqHBidWDc3BHC",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Dentaku - 2009 - Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900407"
+            }
+         ],
+         "length":206.786,
+         "href":"spotify:track:1hdUJs60XwSPMFqc9eYnEh",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Tour De France Etape 1 - Live",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402448"
+            }
+         ],
+         "length":262.293,
+         "href":"spotify:track:2SrONB6OjARkSeNPatt0j3",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"1974",
+            "href":"spotify:album:0DzC0tyowMi2O9QfkDRvfJ",
+            "name":"Autobahn (2009 - Remaster)",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Mitternacht - 2009 - Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900377"
+            }
+         ],
+         "length":225.92,
+         "href":"spotify:track:2bTANsp5wxhOvzjVe0OK0b",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1974",
+            "href":"spotify:album:0DzC0tyowMi2O9QfkDRvfJ",
+            "name":"Autobahn (2009 - Remaster)",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Morgenspaziergang - 2009 - Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900378"
+            }
+         ],
+         "length":242.613,
+         "href":"spotify:track:4VCcq0ZqjZ2VpDthdTd03c",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4nEgdO6tkE2v5LO3mpUEe9",
+            "name":"Radio-Activity [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Transistor - 2009 Digital Remaster",
+         "popularity":"0.31",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900204"
+            }
+         ],
+         "length":134.106,
+         "href":"spotify:track:2H8IB5y5R7x7uftYyXg8lW",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"2010",
+            "href":"spotify:album:730A6RgHYFTi2LYUorYmHU",
+            "name":"Kraftwerk",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Three Bullets",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USA2P1177686"
+            }
+         ],
+         "popularity":"0.31",
+         "explicit":true,
+         "length":227.0,
+         "href":"spotify:track:781OI93xJMQvPfWAFvqjqf",
+         "artists":[
+            {
+               "href":"spotify:artist:7cTfr9nU9kwlKrVxwghbxN",
+               "name":"Snowgoons"
+            },
+            {
+               "href":"spotify:artist:5kyyEWHxZVzLoaiQmiV6DD",
+               "name":"Mykill Miers"
+            },
+            {
+               "href":"spotify:artist:4b4EjCPu3Al1RBinELuIPJ",
+               "name":"Timbo King"
+            },
+            {
+               "href":"spotify:artist:36b4aldhhv4vxGWtykfTRA",
+               "name":"Esoteric"
+            },
+            {
+               "href":"spotify:artist:3GyeVNpWi9Q3H4SOUGtHPJ",
+               "name":"Qualm"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Planet Of Visions - Live",
+         "popularity":"0.3",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402447"
+            }
+         ],
+         "length":285.773,
+         "href":"spotify:track:191rRkoUw119KUa2GqrZQe",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0nAgRvbMJVG8g5iYk9v9pa",
+            "name":"Techno Pop [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Electric Caf\u00e9 - 2009 - Remaster",
+         "popularity":"0.3",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900391"
+            }
+         ],
+         "length":259.133,
+         "href":"spotify:track:30QMw3pAkb1s2fmPnx6yan",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Music Non Stop - 2009 - Remaster",
+         "popularity":"0.3",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900414"
+            }
+         ],
+         "length":400.786,
+         "href":"spotify:track:1ETQfCoL9PMPCJf7P9Zw0u",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:0nAgRvbMJVG8g5iYk9v9pa",
+            "name":"Techno Pop [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"House Phone - 2009 - Remaster",
+         "popularity":"0.3",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900513"
+            }
+         ],
+         "length":296.2,
+         "href":"spotify:track:26To6foFzcmZNSjpwOuDBp",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Tour De France - Live",
+         "popularity":"0.3",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402452"
+            }
+         ],
+         "length":378.2,
+         "href":"spotify:track:7JryYiDLZ8fBKu6yBbu5aH",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Neon Lights - Live",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402455"
+            }
+         ],
+         "length":358.52,
+         "href":"spotify:track:5qaQLp942TmDFQq0qREGLH",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Tour De France Etape 2 - Live",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402450"
+            }
+         ],
+         "length":288.96,
+         "href":"spotify:track:0Z10PsdUsmOdPhBlObckmm",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:7uywQiWxD6krusHiYqujtF",
+            "name":"Die Mensch-Maschine",
+            "availability":{
+               "territories":"AT CH DE"
+            }
+         },
+         "name":"Die Roboter - 2009 Digital Remaster",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"DEC610900214"
+            }
+         ],
+         "length":372.746,
+         "href":"spotify:track:69G2bqmdxqFxOBj4mkvYQt",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Abzug - 2009 - Remaster",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900411"
+            }
+         ],
+         "length":138.306,
+         "href":"spotify:track:4eYnzAZxxsA3VqCQmxI5uz",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Metal On Metal - 2009 - Remaster",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900412"
+            }
+         ],
+         "length":298.866,
+         "href":"spotify:track:2TdojJuitOnWm3NuAEK7x1",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:6MSQB6392VPzRUXzkG6Eso",
+            "name":"The Mix [2009 Digital Remaster]",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Home Computer - 2009 - Remaster",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900413"
+            }
+         ],
+         "length":482.453,
+         "href":"spotify:track:7AeQlYpxg0cYvtaJ32CfMT",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"1987",
+            "href":"spotify:album:2UmOMd1STQEn8wtMGAyA6f",
+            "name":"Techno Pop (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Boing Boom Tschak - 2009 - Remaster",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900386"
+            }
+         ],
+         "length":179.08,
+         "href":"spotify:track:4wkbx63HuE9MRq4qakjMwl",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Vitamin - Live",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402451"
+            }
+         ],
+         "length":401.773,
+         "href":"spotify:track:5iB28QXK8kkA9OINFi4Qdg",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"1987",
+            "href":"spotify:album:07BPkQfT4B5xjDwjCxRiN2",
+            "name":"Computer World (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Home Computer - 2009 - Remaster",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900384"
+            }
+         ],
+         "length":380.92,
+         "href":"spotify:track:18NztlTlFZ5yFuHecx9ECH",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Chrono - Live",
+         "popularity":"0.29",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402449"
+            }
+         ],
+         "length":89.2,
+         "href":"spotify:track:5kjJQgrKjNohQONDn3L9kU",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1991",
+            "href":"spotify:album:6f6u1yQ6fRoeb0bf1BATvU",
+            "name":"The Mix (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"The Robots - 2009 - Remaster",
+         "popularity":"0.28",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900404"
+            }
+         ],
+         "length":538.64,
+         "href":"spotify:track:1hk5mEiqOrhe8xRouriTOC",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Trans-Europa Express - Live",
+         "popularity":"0.28",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402496"
+            }
+         ],
+         "length":200.16,
+         "href":"spotify:track:5B6TLsWAk42b5zDnWr3Hya",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:0brAMNJ9CyYcJsX7Ve6J3I",
+            "name":"Minimum - Maximum",
+            "availability":{
+               "territories":"AD AR AU BE BG BO BR CA CL CO CR CY CZ DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Numbers - Live",
+         "popularity":"0.28",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBAYE0402459"
+            }
+         ],
+         "length":267.413,
+         "href":"spotify:track:2VWesvhhZ1OPYxrCSYXb7u",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"1987",
+            "href":"spotify:album:07BPkQfT4B5xjDwjCxRiN2",
+            "name":"Computer World (Remastered)",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"It's More Fun To Compute - 2009 - Remaster",
+         "popularity":"0.28",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GB01A0900385"
+            }
+         ],
+         "length":256.466,
+         "href":"spotify:track:6osBF39U3SsmhXbPLQ6hu7",
+         "artists":[
+            {
+               "href":"spotify:artist:0dmPX6ovclgOy8WWJaFEUU",
+               "name":"Kraftwerk"
+            }
+         ],
+         "track-number":"7"
+      }
+   ]
+}

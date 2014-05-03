@@ -1,0 +1,2752 @@
+{
+   "info":{
+      "num_results":6563,
+      "limit":100,
+      "offset":0,
+      "query":"david bowie",
+      "type":"track",
+      "page":1
+   },
+   "tracks":[
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:5PfAboDCGnNBqBKnMyOLB7",
+            "name":"Space Oddity [Space Oddity 40th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Space Oddity - 2009 Digital Remaster",
+         "popularity":"0.7",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10900021"
+            }
+         ],
+         "length":317.026,
+         "href":"spotify:track:3sb66av9ZpdI1JmPDHVa18",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1977",
+            "href":"spotify:album:3lFioPGhn7x5Y3H3YbPV83",
+            "name":"Heroes",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Heroes - 1999 Digital Remaster",
+         "popularity":"0.68",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900130"
+            }
+         ],
+         "length":368.373,
+         "href":"spotify:track:5j6ZZwA9BnxZi5Bk0Ng4jB",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"1983",
+            "href":"spotify:album:37KYBt1Lzn4eJ4KoCFZcnR",
+            "name":"Let's Dance",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Let's Dance - 1999 Digital Remaster",
+         "popularity":"0.66",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900185"
+            }
+         ],
+         "length":457.133,
+         "href":"spotify:track:0F0MA0ns8oXwGw66B2BSXm",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"1982",
+            "href":"spotify:album:6reTSIf5MoBco62rk8T7Q1",
+            "name":"Hot Space (2011 Remaster)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Under Pressure - 2011 Remaster",
+         "popularity":"0.68",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBUM71029622"
+            }
+         ],
+         "length":248.44,
+         "href":"spotify:track:2fuCquhmrzHpu5xcA1ci9x",
+         "artists":[
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            },
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Life On Mars?",
+         "popularity":"0.66",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900030"
+            }
+         ],
+         "length":229.0,
+         "href":"spotify:track:1C9NuEa1wOF15EOBuWaaxS",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1983",
+            "href":"spotify:album:5FDIw0ifQrQp63uhTelMVJ",
+            "name":"Let's Dance",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Let's Dance - Single Version;2002 - Remaster",
+         "popularity":"0.66",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200038"
+            }
+         ],
+         "length":247.6,
+         "href":"spotify:track:4cVHMHgmWgudD399ZdhQ3L",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1991",
+            "href":"spotify:album:7rq68qYz66mNdPfidhIEFa",
+            "name":"Greatest Hits II",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Under Pressure",
+         "popularity":"0.66",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBUM71029622"
+            }
+         ],
+         "length":236.52,
+         "href":"spotify:track:2aSFLiDPreOVP6KHiWk4lF",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            },
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"1983",
+            "href":"spotify:album:37KYBt1Lzn4eJ4KoCFZcnR",
+            "name":"Let's Dance",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Modern Love - 1999 Digital Remaster",
+         "popularity":"0.64",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900183"
+            }
+         ],
+         "length":286.466,
+         "href":"spotify:track:7LyIoUsiMtelB1I0I4drEF",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Changes - 1999 Digital Remaster",
+         "popularity":"0.61",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900027"
+            }
+         ],
+         "length":214.493,
+         "href":"spotify:track:1UBilOBSTjHxFBpsHNfykQ",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Where Are We Now?",
+         "popularity":"0.61",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300005"
+            }
+         ],
+         "length":249.213,
+         "href":"spotify:track:6c8FKqalAk67uQ9nfSC0o8",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Starman - 2012 - Remaster",
+         "popularity":"0.59",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200004"
+            }
+         ],
+         "length":254.295,
+         "href":"spotify:track:5AIYDx0HUjra5Bn0vZtjmd",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Ziggy Stardust - 2012 - Remaster",
+         "popularity":"0.58",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200009"
+            }
+         ],
+         "length":193.577,
+         "href":"spotify:track:2h9h3uJyRAb54OyrQK33lA",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:40pUoRK9pOn3tMoXY02fUB",
+            "name":"Platinum Collection",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Heroes - Single Version; 1998 Digital Remaster",
+         "popularity":"0.57",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500037"
+            }
+         ],
+         "length":213.333,
+         "href":"spotify:track:6Bh83dOo88nf6Ez5qHDsZe",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"18"
+      },
+      {
+         "album":{
+            "released":"2009",
+            "href":"spotify:album:4bjjJu3euJ6tVIeobbhwRO",
+            "name":"Quentin Tarantino's Inglourious Basterds Motion Picture Soundtrack",
+            "availability":{
+               "territories":"AR AT AU BG BO BR CA CH CL CO CR CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LV MT MX MY NI NO NZ PA PE PH PL PY RO SE SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Cat People [Putting Out The Fire]",
+         "popularity":"0.56",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USWB10903100"
+            }
+         ],
+         "length":250.84,
+         "href":"spotify:track:6HXvGhmrsMEZ9AxD1Vjejz",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"2004",
+            "href":"spotify:album:6JxxRxzjsOTtKVie29FTt2",
+            "name":"Diamond Dogs",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Rebel Rebel - 1999 Digital Remaster",
+         "popularity":"0.55",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900087"
+            }
+         ],
+         "length":269.36,
+         "href":"spotify:track:66lOpKgTyFjOrac4S1s94g",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:3TmizgcRGbMx21aTP2xkuy",
+            "name":"Love Is Lost",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Love Is Lost - Hello Steve Reich Mix by James Murphy for the DFA",
+         "popularity":"0.54",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300019"
+            }
+         ],
+         "length":624.733,
+         "href":"spotify:track:1aNnqF2XPA7VQngm1Vv2nw",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Queen Bitch",
+         "popularity":"0.54",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900036"
+            }
+         ],
+         "length":193.626,
+         "href":"spotify:track:7szCdhEyZ2xAEkVyZWS9uB",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Stars (Are Out Tonight)",
+         "popularity":"0.54",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300003"
+            }
+         ],
+         "length":237.133,
+         "href":"spotify:track:4FoP9ALTmCn1OwQqLMHuyD",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"1970",
+            "href":"spotify:album:4hCuee6XJrhXfeedeoEv7r",
+            "name":"The Man Who Sold The World",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Man Who Sold The World - 1999 Digital Remaster",
+         "popularity":"0.54",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900021"
+            }
+         ],
+         "length":236.933,
+         "href":"spotify:track:0jx7r5OF2yEXUyRArwlKzS",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:2NNbLbiDihQHhEpIhQ93nD",
+            "name":"The Rise And Fall Of Ziggy Stardust And The Spiders From Mars [30th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Ziggy Stardust - 2002 Digital Remaster",
+         "popularity":"0.54",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200027"
+            }
+         ],
+         "length":194.0,
+         "href":"spotify:track:7FghJa4oMm2NXK54Novir0",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Next Day",
+         "popularity":"0.54",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300001"
+            }
+         ],
+         "length":206.786,
+         "href":"spotify:track:4oI9kesyxHUr8fqiLd6uO9",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:2NNbLbiDihQHhEpIhQ93nD",
+            "name":"The Rise And Fall Of Ziggy Stardust And The Spiders From Mars [30th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Starman - 2002 Digital Remaster",
+         "popularity":"0.53",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200022"
+            }
+         ],
+         "length":253.16,
+         "href":"spotify:track:2bcz1eOhhV8aQXpZKXsdos",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1983",
+            "href":"spotify:album:6VchS51lY0ox0b6YMYaoNs",
+            "name":"China Girl",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"China Girl - Single Version; 2002 Digital Remaster",
+         "popularity":"0.53",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200039"
+            }
+         ],
+         "length":257.0,
+         "href":"spotify:track:7Dy1LOaEeuYOEe5k17T3Rh",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1975",
+            "href":"spotify:album:3VHW81P7SsBqPBGjiCJRXj",
+            "name":"Young Americans",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Young Americans - 2007 Digital Remaster",
+         "popularity":"0.52",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500042"
+            }
+         ],
+         "length":316.44,
+         "href":"spotify:track:2mAguyBQ2Xey2yOmwIpL3B",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1991",
+            "href":"spotify:album:3enuKERSauyNFVTa2n0t7S",
+            "name":"Greatest Hits II (2011 Remaster)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Under Pressure - 2011 Remaster",
+         "popularity":"0.53",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBUM71029622"
+            }
+         ],
+         "length":236.506,
+         "href":"spotify:track:5R3VPUyabw6xw3CyAfIbqV",
+         "artists":[
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            },
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Oh! You Pretty Things - 1999 Digital Remaster",
+         "popularity":"0.52",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900028"
+            }
+         ],
+         "length":192.333,
+         "href":"spotify:track:4UPBIL7XukyiFvovtrRYVN",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Valentine's Day",
+         "popularity":"0.51",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300006"
+            }
+         ],
+         "length":182.293,
+         "href":"spotify:track:6khmdFFcJaGIVqJtH6FSFL",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Suffragette City - 2012 - Remaster",
+         "popularity":"0.51",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200010"
+            }
+         ],
+         "length":206.005,
+         "href":"spotify:track:2JsrUviElh0ZbkRljq4ZfJ",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"1980",
+            "href":"spotify:album:53YfKqwV8lphizo06QSxEe",
+            "name":"Scary Monsters",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Ashes To Ashes",
+         "popularity":"0.51",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900172"
+            }
+         ],
+         "length":265.066,
+         "href":"spotify:track:1JHUxxd77M4ViaqJZfBdl0",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:40pUoRK9pOn3tMoXY02fUB",
+            "name":"Platinum Collection",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Under Pressure - 1994 Digital Remaster",
+         "popularity":"0.52",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBCEG9400046"
+            }
+         ],
+         "length":245.866,
+         "href":"spotify:track:6inw6esWI4spnBSMR0wPDS",
+         "artists":[
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            },
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Changes - 1999 Digital Remaster",
+         "popularity":"0.48",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900027"
+            }
+         ],
+         "length":215.733,
+         "href":"spotify:track:6rG4bDP9eK16QTtVQKw9zZ",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"1969",
+            "href":"spotify:album:2LQYvrh5jOxAAZjiBX3f2b",
+            "name":"Space Oddity",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Space Oddity - 1999 Digital Remaster",
+         "popularity":"0.51",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900001"
+            }
+         ],
+         "length":314.165,
+         "href":"spotify:track:7IBfmCrfaR3SLVemWhsucQ",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Five Years - 2012 - Remaster",
+         "popularity":"0.51",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200001"
+            }
+         ],
+         "length":283.752,
+         "href":"spotify:track:7IKZJOQUvveIQZJq7Bkhl0",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1986",
+            "href":"spotify:album:5W1SppUwQbyyEaPaDSPxSO",
+            "name":"Labyrinth",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Magic Dance",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USNPD0500145"
+            }
+         ],
+         "length":311.093,
+         "href":"spotify:track:5ioaEb9Vs8IABXITXTysLj",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"1982",
+            "href":"spotify:album:0fZCqpTHYq2k89uG6pPTYE",
+            "name":"Hot Space",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Under Pressure",
+         "popularity":"0.52",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBCEG8100001"
+            }
+         ],
+         "length":245.506,
+         "href":"spotify:track:1mSClObliRtgPVT399COQH",
+         "artists":[
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            },
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"1983",
+            "href":"spotify:album:37KYBt1Lzn4eJ4KoCFZcnR",
+            "name":"Let's Dance",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"China Girl - 1999 Digital Remaster",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900184"
+            }
+         ],
+         "length":332.266,
+         "href":"spotify:track:1bki22ZoLCkqb0QIJ5PtJF",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Love Is Lost",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300004"
+            }
+         ],
+         "length":237.6,
+         "href":"spotify:track:77UZC6UGdjzm1sPKMgil9l",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2007",
+            "href":"spotify:album:25vNR2X4RTa0UJ9aKqaXqz",
+            "name":"Dancing In The Street E.P.",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Dancing In The Street - 2002 Digital Remaster",
+         "popularity":"0.52",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200043"
+            }
+         ],
+         "length":204.786,
+         "href":"spotify:track:6FnuMo55jNECTDdS1nD5H0",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            },
+            {
+               "href":"spotify:artist:3d2pb1dHTm8b61zAGVUVvO",
+               "name":"Mick Jagger"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Dirty Boys",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300002"
+            }
+         ],
+         "length":178.48,
+         "href":"spotify:track:6VcOCxxIhpNFPC854kyAU7",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Moonage Daydream - 2012 - Remaster",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200003"
+            }
+         ],
+         "length":280.53,
+         "href":"spotify:track:3ziCNz5vq8pEeRZjPElfYR",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2010",
+            "href":"spotify:album:2itp35XphXKG3x7WF8pCiO",
+            "name":"A Reality Tour",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Fame",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USSM10906222"
+            }
+         ],
+         "length":252.693,
+         "href":"spotify:track:5xrRlowSKVlU6I0lxfDa0V",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Heroes - Single Version; 2002 Digital Remaster",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200034"
+            }
+         ],
+         "length":217.733,
+         "href":"spotify:track:0drIOvDnBMUHKDXWPLecqk",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:40pUoRK9pOn3tMoXY02fUB",
+            "name":"Platinum Collection",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Ashes To Ashes - Single Version;2002 - Remaster",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200035"
+            }
+         ],
+         "length":216.6,
+         "href":"spotify:track:3cxgGZYfHoNwndoTtn0ceA",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2010",
+            "href":"spotify:album:2itp35XphXKG3x7WF8pCiO",
+            "name":"A Reality Tour",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Rebel, Rebel",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USSM10906217"
+            }
+         ],
+         "length":210.72,
+         "href":"spotify:track:6bqRt99ZhBkO8pTXWSNNYi",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:40pUoRK9pOn3tMoXY02fUB",
+            "name":"Platinum Collection",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Young Americans - Single Version; 1998 Digital Remaster",
+         "popularity":"0.5",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500024"
+            }
+         ],
+         "length":197.92,
+         "href":"spotify:track:4kjPi76T5I8jfA8D2TnVey",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Rock 'N' Roll Suicide - 2012 - Remaster",
+         "popularity":"0.49",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200011"
+            }
+         ],
+         "length":178.265,
+         "href":"spotify:track:5yEx8IzyPZcJFa5T1o37gU",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Fame - 1999 Digital Remaster",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900102"
+            }
+         ],
+         "length":257.373,
+         "href":"spotify:track:4r8cI0SCP8c0juGDEMreEW",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"1997",
+            "href":"spotify:album:3htuY0OiwfkMfM6NJCRyrI",
+            "name":"The Best Of David Bowie 1969-74",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Life On Mars? - 1997 Digital Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500016"
+            }
+         ],
+         "length":232.173,
+         "href":"spotify:track:2MyNVTCYMp4LBzUY1Q3vXQ",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"16"
+      },
+      {
+         "album":{
+            "released":"1997",
+            "href":"spotify:album:3htuY0OiwfkMfM6NJCRyrI",
+            "name":"The Best Of David Bowie 1969-74",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Space Oddity - 1997 Digital Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500002"
+            }
+         ],
+         "length":315.106,
+         "href":"spotify:track:5BSkUsTWQWfctzP5EF8XnK",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"1976",
+            "href":"spotify:album:7Ce9NBNo6wHUKbvZS41NOH",
+            "name":"Station To Station",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Golden Years - 1999 Digital Remaster",
+         "popularity":"0.49",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900108"
+            }
+         ],
+         "length":240.6,
+         "href":"spotify:track:1hlG7OWNQYhY01ZOd7JL6S",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"I'd Rather Be High",
+         "popularity":"0.49",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300008"
+            }
+         ],
+         "length":224.96,
+         "href":"spotify:track:4Kh8sLZcEcFOsx67l9wsb5",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"1997",
+            "href":"spotify:album:3htuY0OiwfkMfM6NJCRyrI",
+            "name":"The Best Of David Bowie 1969-74",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Rebel Rebel - 1997 Digital Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500006"
+            }
+         ],
+         "length":270.666,
+         "href":"spotify:track:5fCwwY9VFcpQr1JOKsHmPX",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:40pUoRK9pOn3tMoXY02fUB",
+            "name":"Platinum Collection",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Modern Love - Single Version; 2002 Digital Remaster",
+         "popularity":"0.48",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200040"
+            }
+         ],
+         "length":238.733,
+         "href":"spotify:track:6ELyKnoXbcPcd4rBK34zc5",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"1989",
+            "href":"spotify:album:5zvy6zyWxnUUyNKnTOVrad",
+            "name":"Sound And Vision",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Sound and Vision - 1999 - Remaster",
+         "popularity":"0.48",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900117"
+            }
+         ],
+         "length":184.533,
+         "href":"spotify:track:7FZmtRAfaMQjGZUVvhof8F",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"13"
+      },
+      {
+         "album":{
+            "released":"1997",
+            "href":"spotify:album:3htuY0OiwfkMfM6NJCRyrI",
+            "name":"The Best Of David Bowie 1969-74",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Starman - 1997 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500003"
+            }
+         ],
+         "length":258.2,
+         "href":"spotify:track:7gZOxmcYAquTLGBg5NeRQh",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:6e4wwfq1AoHldObRJoLuVy",
+            "name":"Aladdin Sane - 30th Anniversary Remaster",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Jean Genie - 2003 - Remaster",
+         "popularity":"0.48",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10300120"
+            }
+         ],
+         "length":246.76,
+         "href":"spotify:track:3xo8bK4IDr28C4APsj7MSE",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Let's Dance - Single Version;2002 - Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200038"
+            }
+         ],
+         "length":250.04,
+         "href":"spotify:track:3NWUDziFW8uFfcYNXmrRNH",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"14"
+      },
+      {
+         "album":{
+            "released":"1997",
+            "href":"spotify:album:3htuY0OiwfkMfM6NJCRyrI",
+            "name":"The Best Of David Bowie 1969-74",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Ziggy Stardust - 1997 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500004"
+            }
+         ],
+         "length":196.693,
+         "href":"spotify:track:3PPJVaa7maBPrYA4OS6gyG",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"If You Can See Me",
+         "popularity":"0.48",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300007"
+            }
+         ],
+         "length":192.386,
+         "href":"spotify:track:2tXy4IBLXuMshB2FCLhUZT",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:2NNbLbiDihQHhEpIhQ93nD",
+            "name":"The Rise And Fall Of Ziggy Stardust And The Spiders From Mars [30th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Suffragette City - 2002 Digital Remaster",
+         "popularity":"0.48",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200028"
+            }
+         ],
+         "length":205.093,
+         "href":"spotify:track:48nCPUtpcZhA3EaeDSot7T",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Soul Love - 2012 - Remaster",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200002"
+            }
+         ],
+         "length":214.198,
+         "href":"spotify:track:7yPzkJsze1B19CKGQwTl6v",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"1977",
+            "href":"spotify:album:0Oqi3Mm316FRX5H9mHjF0b",
+            "name":"Low",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Sound and Vision - 1999 - Remaster",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900117"
+            }
+         ],
+         "length":183.44,
+         "href":"spotify:track:2JzZ8UTEb1GGvR8Ra0Nfy2",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Kooks - 1999 Digital Remaster",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900031"
+            }
+         ],
+         "length":169.466,
+         "href":"spotify:track:2NOsNak3mXN0Y3678sVn6V",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Lady Stardust - 2012 - Remaster",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200006"
+            }
+         ],
+         "length":201.426,
+         "href":"spotify:track:1aPTYPSR08JgTIf4W58bES",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"1997",
+            "href":"spotify:album:3htuY0OiwfkMfM6NJCRyrI",
+            "name":"The Best Of David Bowie 1969-74",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Changes - 1997 Digital Remaster",
+         "popularity":"0.43",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500013"
+            }
+         ],
+         "length":214.626,
+         "href":"spotify:track:6qKBgMPRR5lb5aZN8gHXpm",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"13"
+      },
+      {
+         "album":{
+            "released":"1986",
+            "href":"spotify:album:5W1SppUwQbyyEaPaDSPxSO",
+            "name":"Labyrinth",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"As The World Falls Down",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USNPD0500068"
+            }
+         ],
+         "length":291.093,
+         "href":"spotify:track:29wBjy8SnPI0FLj1xaRWp0",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"1985",
+            "href":"spotify:album:4BAyVOplUMRCSWg5G1IZSn",
+            "name":"Falcon & The Snowman - Soundtrack",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"This Is Not America",
+         "popularity":"0.49",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10700026"
+            }
+         ],
+         "length":235.973,
+         "href":"spotify:track:2meCCKXW35bPvcZKBVbYPV",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            },
+            {
+               "href":"spotify:artist:3t58jfUhoMLYVO14XaUFLA",
+               "name":"Pat Metheny"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Boss Of Me",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300009"
+            }
+         ],
+         "length":249.733,
+         "href":"spotify:track:6PgPvWhA31EGw3vJASHGIk",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Under Pressure",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBCEG8100001"
+            }
+         ],
+         "length":237.826,
+         "href":"spotify:track:4okLKeB83VLZFGGtrMQxpd",
+         "artists":[
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            },
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"13"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Dancing Out In Space",
+         "popularity":"0.47",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300010"
+            }
+         ],
+         "length":201.746,
+         "href":"spotify:track:2xSVgYdLjA0OZcIl8o3tVr",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Rebel Rebel - 1999 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900087"
+            }
+         ],
+         "length":271.706,
+         "href":"spotify:track:6LNwcU77wgVQ5PLSnrRwAN",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:2NNbLbiDihQHhEpIhQ93nD",
+            "name":"The Rise And Fall Of Ziggy Stardust And The Spiders From Mars [30th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Moonage Daydream - 2002 Digital Remaster",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200021"
+            }
+         ],
+         "length":279.64,
+         "href":"spotify:track:7HkDrQ5dkY8TOXOp3ZGgmB",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2011",
+            "href":"spotify:album:6M0LuPNTm4aYOxicZiN1F8",
+            "name":"The Platinum Collection (2011 Remaster)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Under Pressure - 2011 Remaster",
+         "popularity":"0.48",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBUM71029622"
+            }
+         ],
+         "length":236.506,
+         "href":"spotify:track:1l9EJJZPLEcGn9BtKZaks7",
+         "artists":[
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            },
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"How Does The Grass Grow?",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300011"
+            }
+         ],
+         "length":274.413,
+         "href":"spotify:track:4k8Dj5MNT9Anv4sHx7SB77",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"(You Will) Set The World On Fire",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300012"
+            }
+         ],
+         "length":212.28,
+         "href":"spotify:track:6jj0HZ05CGxawdT6KAOGOY",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"12"
+      },
+      {
+         "album":{
+            "released":"1973",
+            "href":"spotify:album:0rBsmtPnOGz2IYmAqCrbuy",
+            "name":"Aladdin Sane",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Lady Grinning Soul - 2013 - Remaster",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11300010"
+            }
+         ],
+         "length":235.255,
+         "href":"spotify:track:62h4jSOldiNuUHk7UBqt3y",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"10"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"You Feel So Lonely You Could Die",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300013"
+            }
+         ],
+         "length":277.706,
+         "href":"spotify:track:2wm2eEjiMtv3wf4OEboe7L",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"13"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:2NNbLbiDihQHhEpIhQ93nD",
+            "name":"The Rise And Fall Of Ziggy Stardust And The Spiders From Mars [30th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Five Years - 2002 Digital Remaster",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200019"
+            }
+         ],
+         "length":283.36,
+         "href":"spotify:track:2kc3WcBjPMLUleYu0NOf1R",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Quicksand - 1999 Digital Remaster",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900032"
+            }
+         ],
+         "length":303.96,
+         "href":"spotify:track:1JBg3MrS3FfK32kVyGZbAz",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Andy Warhol - 1999 Digital Remaster",
+         "popularity":"0.46",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900034"
+            }
+         ],
+         "length":232.84,
+         "href":"spotify:track:6Vwjtc0f9F1OBAoUjZDYG1",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Golden Years - Single Version; 2002 Digital Remaster",
+         "popularity":"0.43",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200032"
+            }
+         ],
+         "length":209.6,
+         "href":"spotify:track:4KL2SFwIL1OjbBn7gpwaL2",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"9"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"It Ain't Easy - 2012 - Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200005"
+            }
+         ],
+         "length":177.774,
+         "href":"spotify:track:5RsqILgx7gjNjtyMzmwVF8",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Hang On to Yourself - 2012 - Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200008"
+            }
+         ],
+         "length":159.958,
+         "href":"spotify:track:4vQ5XF3UV9mjUK34utbwoe",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"2010",
+            "href":"spotify:album:2itp35XphXKG3x7WF8pCiO",
+            "name":"A Reality Tour",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Heroes",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USSM10906245"
+            }
+         ],
+         "length":418.413,
+         "href":"spotify:track:0s8gFsY1kWBQM18QTZuBkm",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:5cbAqQZSEgRiiNjuEHWTXc",
+            "name":"Moulin Rouge [Soundtrack (International Version)]",
+            "availability":{
+               "territories":"AD AT BE BO CH CL CY CZ DE DK DO EC ES FI FR GB GR GT HN HU IT LI LU MC MY NI NL NO PA PE PL PT PY SE SV UY"
+            }
+         },
+         "name":"Nature Boy",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USIR10110320"
+            }
+         ],
+         "length":205.533,
+         "href":"spotify:track:7Inxk0cVIbPysrKayymnmf",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Eight Line Poem - 1999 Digital Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900029"
+            }
+         ],
+         "length":172.706,
+         "href":"spotify:track:4E9iLjQrPnOCYOgRrQTpiL",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"3"
+      },
+      {
+         "album":{
+            "released":"2005",
+            "href":"spotify:album:40pUoRK9pOn3tMoXY02fUB",
+            "name":"Platinum Collection",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Golden Years - Single Version; 1998 Digital Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500022"
+            }
+         ],
+         "length":211.426,
+         "href":"spotify:track:3qVQ4akZVrjKXGE4czz8mI",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"2"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:2PEAajl89bIS4eWMk7zlbV",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Under Pressure",
+         "popularity":"0.43",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"GBCEG8100001"
+            }
+         ],
+         "length":237.066,
+         "href":"spotify:track:5oidljiMjeJTWUGZ4TfFea",
+         "artists":[
+            {
+               "href":"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+               "name":"Queen"
+            },
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"4"
+      },
+      {
+         "album":{
+            "released":"1997",
+            "href":"spotify:album:3htuY0OiwfkMfM6NJCRyrI",
+            "name":"The Best Of David Bowie 1969-74",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"The Man Who Sold The World - 1997 Digital Remaster",
+         "popularity":"0.41",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500018"
+            }
+         ],
+         "length":236.2,
+         "href":"spotify:track:5AHlhn3mBT09VapWwwA3O8",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"18"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:2NNbLbiDihQHhEpIhQ93nD",
+            "name":"The Rise And Fall Of Ziggy Stardust And The Spiders From Mars [30th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Rock 'N' Roll Suicide - 2002 Digital Remaster",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200029"
+            }
+         ],
+         "length":178.933,
+         "href":"spotify:track:6lqEUeXH6EHjYo5p5Q9WRK",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"11"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:2PEAajl89bIS4eWMk7zlbV",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Life On Mars?",
+         "popularity":"0.42",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900030"
+            }
+         ],
+         "length":230.8,
+         "href":"spotify:track:7MpQOaVorMfoNHOJ80YxhY",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"5"
+      },
+      {
+         "album":{
+            "released":"2013",
+            "href":"spotify:album:2agWNCZl5Ts9W05mij8EPh",
+            "name":"The Next Day Extra",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Heat",
+         "popularity":"0.45",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USRF31300014"
+            }
+         ],
+         "length":265.253,
+         "href":"spotify:track:0TEVdG36DLVSQ6AI60fR7y",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"14"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Young Americans - Single Version; 2002 Digital Remaster",
+         "popularity":"0.42",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200031"
+            }
+         ],
+         "length":194.96,
+         "href":"spotify:track:35O4W2OKGwQqOmp3WhgAE5",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:1jdQFC3s8PZUc5i7vovZTv",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"CA US"
+            }
+         },
+         "name":"Space Oddity - 1999 Digital Remaster",
+         "popularity":"0.42",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900001"
+            }
+         ],
+         "length":315.96,
+         "href":"spotify:track:22yy03IdKXGRUFMQX8EfBv",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      },
+      {
+         "album":{
+            "released":"2003",
+            "href":"spotify:album:2NNbLbiDihQHhEpIhQ93nD",
+            "name":"The Rise And Fall Of Ziggy Stardust And The Spiders From Mars [30th Anniversary Edition]",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Lady Stardust - 2002 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10200024"
+            }
+         ],
+         "length":201.2,
+         "href":"spotify:track:4R2b9R9gHWieWL3AcYNPmK",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"1971",
+            "href":"spotify:album:0vypdDHTQsoVmVu8OgXEly",
+            "name":"Hunky Dory",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Fill Your Heart - 1999 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900033"
+            }
+         ],
+         "length":187.4,
+         "href":"spotify:track:1iad9hIOVRWfkpe0fGAITi",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"1972",
+            "href":"spotify:album:0745mDdMqet9J5nO5x7IQS",
+            "name":"The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered)",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Star - 2012 - Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT11200007"
+            }
+         ],
+         "length":167.55,
+         "href":"spotify:track:1XJyrtPqhQytpN1zLt1Kzt",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"7"
+      },
+      {
+         "album":{
+            "released":"1975",
+            "href":"spotify:album:3VHW81P7SsBqPBGjiCJRXj",
+            "name":"Young Americans",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Fame - 2007 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT10500049"
+            }
+         ],
+         "length":260.946,
+         "href":"spotify:track:7qVOasZcHa4faF1TqvPEKF",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"8"
+      },
+      {
+         "album":{
+            "released":"1976",
+            "href":"spotify:album:7Ce9NBNo6wHUKbvZS41NOH",
+            "name":"Station To Station",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+            }
+         },
+         "name":"Wild Is The Wind - 1999 Digital Remaster",
+         "popularity":"0.44",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900112"
+            }
+         ],
+         "length":360.266,
+         "href":"spotify:track:7uurJfwCTZ0iqVJlu6kj3k",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"6"
+      },
+      {
+         "album":{
+            "released":"2002",
+            "href":"spotify:album:2PEAajl89bIS4eWMk7zlbV",
+            "name":"Best Of Bowie",
+            "availability":{
+               "territories":"AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+            }
+         },
+         "name":"Space Oddity - 1999 Digital Remaster",
+         "popularity":"0.41",
+         "external-ids":[
+            {
+               "type":"isrc",
+               "id":"USJT19900001"
+            }
+         ],
+         "length":313.486,
+         "href":"spotify:track:74mVYAylZcHEY4WVFoFplV",
+         "artists":[
+            {
+               "href":"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy",
+               "name":"David Bowie"
+            }
+         ],
+         "track-number":"1"
+      }
+   ]
+}
