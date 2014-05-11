@@ -5,6 +5,9 @@ import org.junit.Test;
 
 import java.util.function.Supplier;
 
+import static junit.framework.Assert.assertNotSame;
+import static junit.framework.Assert.assertSame;
+
 public class ObjectLifeCycle {
 
     @Test
@@ -17,8 +20,19 @@ public class ObjectLifeCycle {
         Supplier bar = factory.getAnonInnerClassSupplier();
         Supplier bar2 = factory.getAnonInnerClassSupplier();
 
-        Assert.assertSame(foo, foo2);
-        Assert.assertNotSame(bar, bar2);
+        assertSame(foo, foo2);
+        assertNotSame(bar, bar2);
+    }
+
+    @Test
+    public void lambdasAreStatic(){
+        LambdaFactory factory = new LambdaFactory();
+        LambdaFactory factory2 = new LambdaFactory();
+
+        Supplier foo = factory.getLambdaSupplier();
+        Supplier foo2 = factory2.getLambdaSupplier();
+
+        assertSame(foo, foo2);
     }
 
     public static class LambdaFactory {
