@@ -5,6 +5,7 @@ import org.junit.Test;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
+import java.lang.invoke.LambdaMetafactory;
 import java.util.function.Supplier;
 
 import static junit.framework.Assert.assertNotSame;
@@ -17,14 +18,9 @@ public class ObjectLifeCycle {
     public void lambdasAreAlwaysTheSameAnonsAreDifferent(){
         LambdaFactory factory = new LambdaFactory();
 
-        Supplier foo = factory.getLambdaSupplier();
-        Supplier foo2 = factory.getLambdaSupplier();
+        assertSame(factory.getLambdaSupplier(), factory.getLambdaSupplier());
 
-        Supplier bar = factory.getAnonInnerClassSupplier();
-        Supplier bar2 = factory.getAnonInnerClassSupplier();
-
-        assertSame(foo, foo2);
-        assertNotSame(bar, bar2);
+        assertNotSame(factory.getAnonInnerClassSupplier(), factory.getAnonInnerClassSupplier());
     }
 
     @Test
@@ -32,10 +28,22 @@ public class ObjectLifeCycle {
         LambdaFactory factory = new LambdaFactory();
         LambdaFactory factory2 = new LambdaFactory();
 
-        Supplier foo = factory.getLambdaSupplier();
-        Supplier foo2 = factory2.getLambdaSupplier();
+        assertSame(factory.getLambdaSupplier(), factory2.getLambdaSupplier());
+    }
 
-        assertSame(foo, foo2);
+    @Test
+    public void theSameLambdaInADifferentLocationisNotTheSame(){
+        LambdaFactory foo = new LambdaFactory();
+        assertNotSame(foo.getLambdaSupplier(), foo.getAnotherLambda());
+    }
+
+    @Test
+    public void lambdasAreStoredInAnArray(){
+        LambdaFactory factory = new LambdaFactory();
+        System.out.println(factory.getLambdaSupplier());
+        System.out.println(factory.getLambdaSupplier());
+        System.out.println(factory.getAnotherLambda());
+        System.out.println(factory.getThrowingLambda());
     }
 
     @Test
@@ -67,6 +75,10 @@ public class ObjectLifeCycle {
 
         public Supplier<Integer> getThrowingLambda(){
              return () -> {throw new RuntimeException();};
+        }
+
+        public Supplier<Integer> getAnotherLambda(){
+            return () -> 42;
         }
     }
 
