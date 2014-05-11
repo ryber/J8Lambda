@@ -73,7 +73,9 @@ public class ObjectLifeCycle {
     private String getStackTrace(Exception e) {
         StringWriter sw = new StringWriter();
         e.printStackTrace(new PrintWriter(sw));
-        return sw.toString();
+        String result = sw.toString();
+        //System.out.println("result = " + result);
+        return result;
     }
 
 }
