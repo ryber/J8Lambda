@@ -37,14 +37,6 @@ public class ObjectLifeCycle {
         assertNotSame(foo.getLambdaSupplier(), foo.getAnotherLambda());
     }
 
-    @Test
-    public void lambdasAreStoredInAnArray(){
-        LambdaFactory factory = new LambdaFactory();
-        System.out.println(factory.getLambdaSupplier());
-        System.out.println(factory.getLambdaSupplier());
-        System.out.println(factory.getAnotherLambda());
-        System.out.println(factory.getThrowingLambda());
-    }
 
     @Test
     public void lambdasStackTraceIsStillNice(){
